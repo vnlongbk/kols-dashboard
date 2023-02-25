@@ -1,3 +1,12 @@
+import {
+  TvIcon,
+  WrenchScrewdriverIcon,
+  CircleStackIcon,
+  FingerPrintIcon,
+  UserPlusIcon,
+  UserCircleIcon,
+} from "@heroicons/react/24/outline";
+
 import { useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/router";
@@ -7,6 +16,8 @@ import NotificationDropdown from "@/components/Dropdowns/NotificationDropdown";
 export default function Sidebar() {
   const [collapseShow, setCollapseShow] = useState("hidden");
   const router = useRouter();
+
+  console.log(router.pathname);
   return (
     <>
       <nav className="md:left-0 md:block md:fixed md:top-0 md:bottom-0 md:overflow-y-auto md:flex-row md:flex-nowrap md:overflow-hidden shadow-xl bg-white flex flex-wrap items-center justify-between relative md:w-64 z-10 py-4 px-6">
@@ -83,89 +94,67 @@ export default function Sidebar() {
             <ul className="md:flex-col md:min-w-full flex flex-col list-none">
               <li className="items-center">
                 <Link
-                  href="/admin/dashboard"
+                  href="/"
                   className={
-                    "text-xs uppercase py-3 font-bold block " +
-                    (router.pathname.indexOf("/admin/dashboard") !== -1
+                    "flex flex-row text-xs uppercase py-3 font-bold" +
+                    (router.pathname === "/"
                       ? "text-sky-500 hover:text-sky-600"
                       : "text-slate-700 hover:text-slate-500")
                   }
                 >
-                  <i
+                  <TvIcon
                     className={
-                      "fas fa-tv mr-2 text-sm " +
-                      (router.pathname.indexOf("/admin/dashboard") !== -1
-                        ? "opacity-75"
-                        : "text-slate-300")
+                      "h-4 w-4" +
+                      (router.pathname === "/"
+                        ? "text-sky-500 hover:text-sky-600"
+                        : "text-slate-700 hover:text-slate-500")
                     }
-                  ></i>{" "}
-                  Dashboard
+                  />
+                  <span className="ml-2">Dashboard</span>
                 </Link>
               </li>
 
               <li className="items-center">
                 <Link
-                  href="/admin/settings"
+                  href="/settings"
                   className={
-                    "text-xs uppercase py-3 font-bold block " +
-                    (router.pathname.indexOf("/admin/settings") !== -1
+                    "text-xs uppercase py-3 font-bold flex flex-row " +
+                    (router.pathname.indexOf("/settings") !== -1
                       ? "text-sky-500 hover:text-sky-600"
                       : "text-slate-700 hover:text-slate-500")
                   }
                 >
-                  <i
+                  <WrenchScrewdriverIcon
                     className={
-                      "fas fa-tools mr-2 text-sm " +
-                      (router.pathname.indexOf("/admin/settings") !== -1
-                        ? "opacity-75"
-                        : "text-slate-300")
+                      "h-4 w-4 mr-2" +
+                      (router.pathname === "/"
+                        ? "text-sky-500 hover:text-sky-600"
+                        : "text-slate-700 hover:text-slate-500")
                     }
-                  ></i>{" "}
-                  Settings
+                  />
+                  <span className="ml-2">Settings</span>
                 </Link>
               </li>
 
               <li className="items-center">
                 <Link
-                  href="/admin/tables"
+                  href="/tables"
                   className={
-                    "text-xs uppercase py-3 font-bold block " +
-                    (router.pathname.indexOf("/admin/tables") !== -1
+                    "text-xs uppercase py-3 font-bold flex flex-row " +
+                    (router.pathname.indexOf("/tables") !== -1
                       ? "text-sky-500 hover:text-sky-600"
                       : "text-slate-700 hover:text-slate-500")
                   }
                 >
-                  <i
+                  <CircleStackIcon
                     className={
-                      "fas fa-table mr-2 text-sm " +
-                      (router.pathname.indexOf("/admin/tables") !== -1
-                        ? "opacity-75"
-                        : "text-slate-300")
+                      "h-4 w-4" +
+                      (router.pathname === "/"
+                        ? "text-sky-500 hover:text-sky-600"
+                        : "text-slate-700 hover:text-slate-500")
                     }
-                  ></i>{" "}
-                  Tables
-                </Link>
-              </li>
-
-              <li className="items-center">
-                <Link
-                  href="/admin/maps"
-                  className={
-                    "text-xs uppercase py-3 font-bold block " +
-                    (router.pathname.indexOf("/admin/maps") !== -1
-                      ? "text-sky-500 hover:text-sky-600"
-                      : "text-slate-700 hover:text-slate-500")
-                  }
-                >
-                  <i
-                    className={
-                      "fas fa-map-marked mr-2 text-sm " +
-                      (router.pathname.indexOf("/admin/maps") !== -1
-                        ? "opacity-75"
-                        : "text-slate-300")
-                    }
-                  ></i>{" "}
-                  Maps
+                  />
+                  <span className="ml-2">Tables</span>
                 </Link>
               </li>
             </ul>
@@ -182,20 +171,34 @@ export default function Sidebar() {
               <li className="items-center">
                 <Link
                   href="/auth/login"
-                  className="text-slate-700 hover:text-slate-500 text-xs uppercase py-3 font-bold block"
+                  className="text-slate-700 hover:text-slate-500 text-xs uppercase py-3 font-bold flex flex-row"
                 >
-                  <i className="fas fa-fingerprint text-slate-400 mr-2 text-sm"></i>{" "}
-                  Login
+                  <FingerPrintIcon
+                    className={
+                      "h-4 w-4" +
+                      (router.pathname === "/"
+                        ? "text-sky-500 hover:text-sky-600"
+                        : "text-slate-700 hover:text-slate-500")
+                    }
+                  />
+                  <span className="ml-2">Login</span>
                 </Link>
               </li>
 
               <li className="items-center">
                 <Link
                   href="/auth/register"
-                  className="text-slate-700 hover:text-slate-500 text-xs uppercase py-3 font-bold block"
+                  className="text-slate-700 hover:text-slate-500 text-xs uppercase py-3 font-bold flex flex-row"
                 >
-                  <i className="fas fa-clipboard-list text-slate-300 mr-2 text-sm"></i>{" "}
-                  Register
+                  <UserPlusIcon
+                    className={
+                      "h-4 w-4" +
+                      (router.pathname === "/"
+                        ? "text-sky-500 hover:text-sky-600"
+                        : "text-slate-700 hover:text-slate-500")
+                    }
+                  />
+                  <span className="ml-2">Register</span>
                 </Link>
               </li>
             </ul>
@@ -211,21 +214,18 @@ export default function Sidebar() {
             <ul className="md:flex-col md:min-w-full flex flex-col list-none md:mb-4">
               <li className="items-center">
                 <Link
-                  href="/landing"
-                  className="text-slate-700 hover:text-slate-500 text-xs uppercase py-3 font-bold block"
-                >
-                  <i className="fas fa-newspaper text-slate-400 mr-2 text-sm"></i>{" "}
-                  Landing Page
-                </Link>
-              </li>
-
-              <li className="items-center">
-                <Link
                   href="/profile"
-                  className="text-slate-700 hover:text-slate-500 text-xs uppercase py-3 font-bold block"
+                  className="text-slate-700 hover:text-slate-500 text-xs uppercase py-3 font-bold flex flex-row"
                 >
-                  <i className="fas fa-user-circle text-slate-400 mr-2 text-sm"></i>{" "}
-                  Profile Page
+                  <UserCircleIcon
+                    className={
+                      "h-4 w-4" +
+                      (router.pathname === "/"
+                        ? "text-sky-500 hover:text-sky-600"
+                        : "text-slate-700 hover:text-slate-500")
+                    }
+                  />
+                  <span className="ml-2">Profile Page</span>
                 </Link>
               </li>
             </ul>

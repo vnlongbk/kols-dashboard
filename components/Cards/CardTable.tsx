@@ -1,11 +1,7 @@
-import React from "react";
-import PropTypes from "prop-types";
-
-// components
-
+/* eslint-disable @next/next/no-img-element */
 import TableDropdown from "components/Dropdowns/TableDropdown.js";
 
-export default function CardTable({ color }) {
+export default function CardTable({ color }: any) {
   return (
     <>
       <div
@@ -114,7 +110,8 @@ export default function CardTable({ color }) {
                   $2,500 USD
                 </td>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
-                  <i className="fas fa-circle text-orange-500 mr-2"></i> pending
+                  <span className="inline-block h-3 w-3 -translate-y-1/2 translate-x-1/2 transform rounded-full bg-red-400 ring-2 ring-white mr-2" />
+                  pending
                 </td>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
                   <div className="flex">
@@ -177,7 +174,7 @@ export default function CardTable({ color }) {
                   $1,800 USD
                 </td>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
-                  <i className="fas fa-circle text-emerald-500 mr-2"></i>{" "}
+                  <span className="inline-block h-3 w-3 -translate-y-1/2 translate-x-1/2 transform rounded-full bg-green-400 ring-2 ring-white mr-2" />
                   completed
                 </td>
                 <td className="border-t-0 px-6 align-middle border-l-0 border-r-0 text-xs whitespace-nowrap p-4">
@@ -422,8 +419,4 @@ export default function CardTable({ color }) {
 
 CardTable.defaultProps = {
   color: "light",
-};
-
-CardTable.propTypes = {
-  color: PropTypes.oneOf(["light", "dark"]),
 };

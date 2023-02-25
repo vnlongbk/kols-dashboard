@@ -1,11 +1,7 @@
-import React from "react";
-
-// components
-
 export default function CardSettings() {
   return (
     <>
-      <div className="relative flex flex-col min-w-0 break-words w-full mb-6 shadow-lg rounded-lg bg-slate-100 border-0">
+      <div className="relative flex flex-col min-w-0 break-words w-full mb-6 rounded-lg shadow-md bg-slate-100 border-0">
         <div className="rounded-t bg-white mb-0 px-6 py-6">
           <div className="text-center flex justify-between">
             <h6 className="text-slate-700 text-xl font-bold">My account</h6>
@@ -168,9 +164,7 @@ export default function CardSettings() {
                     About me
                   </label>
                   <textarea
-                    type="text"
                     className="border-0 px-3 py-3 placeholder-slate-300 text-slate-600 bg-white rounded text-sm shadow focus:outline-none focus:ring w-full ease-linear transition-all duration-150"
-                    rows="4"
                     defaultValue="A beautiful UI Kit and Admin for NextJS & Tailwind CSS. It is Free
                     and Open Source."
                   ></textarea>
