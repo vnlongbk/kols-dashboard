@@ -96,7 +96,7 @@ export default function Sidebar() {
                 <Link
                   href="/"
                   className={
-                    "flex flex-row text-xs uppercase py-3 font-bold" +
+                    "flex flex-row text-xs uppercase py-3 font-bold " +
                     (router.pathname === "/"
                       ? "text-sky-500 hover:text-sky-600"
                       : "text-slate-700 hover:text-slate-500")
