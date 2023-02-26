@@ -15,16 +15,16 @@ class MyDocument extends Document {
             sizes="76x76"
             href="/img/brand/apple-icon.png"
           />
-          <link
+          {/* <link
             rel="stylesheet"
             href="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.min.css"
-          />
+          /> */}
         </Head>
         <body className="text-slate-700 antialiased">
           <div id="page-transition"></div>
           <Main />
           <NextScript />
-          <script src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.min.js" />
+          {/* <script src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.min.js" /> */}
         </body>
       </Html>
     );
