@@ -1,0 +1,1457 @@
+[
+  {
+    "id": 7204024310363606299,
+    "stats": {
+      "digg_count": 2470,
+      "share_count": 16,
+      "comment_count": 34,
+      "play_count": 62500
+    },
+    "create_time": 1677317622000,
+    "desc": "CH\u1ee6 M\u01afU KH\u00d4NG AI KH\u00c1C CH\u00cdNH L\u00c0 CHA CH\u1ed2NG C\u0168 #theanh28news #theanh28 #tiktoknews ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28news" },
+      { "title": "theanh28" },
+      { "title": "tiktoknews" }
+    ],
+    "video": {
+      "id": 7204024310363606299,
+      "height": 1024,
+      "width": 576,
+      "duration": 26,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 776633,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/ee6661f63d0e4253970813420d85d8e1_1677317633?x-expires=1677340800&x-signature=34%2FOLTjdvHucB4pKIezf9Lb5kDs%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/79d3a2269b7346109aecdbf107c857f7_1677317633?x-expires=1677340800&x-signature=W9kP6eSflYc%2B6YSxQDQqL%2FMLhGM%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/b921fd61235247e68f92803054db88a0_1677317636?x-expires=1677340800&x-signature=WYp1bMfMimVIG9%2BJMoTZ4xqMaYA%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oIDEoexb6hCQCtEre18HXgetMeTnbDgGAoBT5E/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1516&bt=758&cs=0&ds=3&ft=4fUEKM3a8Zmo0m60X64jV5u6PpWrKsdm&mime_type=video_mp4&qs=0&rc=M2k7MzM8aWk3N2c1NTk1NEBpMzQ4dTM6Zml3aTMzZjgzM0BhMDAyMTVjXi0xLS9iYl8wYSMwNWBpcjRnX3BgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677341655&l=20230225101348C152FD815C24212498C5&ply_type=2&policy=2&signature=77ae189e169283a3043b7cf496081bc5&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oIDEoexb6hCQCtEre18HXgetMeTnbDgGAoBT5E/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1516&bt=758&cs=0&ds=3&ft=4fUEKM3a8Zmo0m60X64jV5u6PpWrKsdm&mime_type=video_mp4&qs=0&rc=M2k7MzM8aWk3N2c1NTk1NEBpMzQ4dTM6Zml3aTMzZjgzM0BhMDAyMTVjXi0xLS9iYl8wYSMwNWBpcjRnX3BgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677341655&l=20230225101348C152FD815C24212498C5&ply_type=2&policy=2&signature=77ae189e169283a3043b7cf496081bc5&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7204024348682816283,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/oYCzfENzdoBmjHX5IGhghNEee1eWHUECRGbTgk/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Th7ah.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=PDRnMzw3N2g0aGVpNzU6ZkBpMzZvajQ6Znl3aTMzZjU8M0AzNDJhLV9jNmExYF40LjMvYSMva2VtcjQwX3BgLS1kMWNzcw%3D%3D&btag=80000&expire=1677323655&l=20230225101348C152FD815C24212498C5&ply_type=3&policy=3&signature=9f1f5de5c08b87c50a8de6865121ab29&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 26,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203995324988378394,
+    "stats": {
+      "digg_count": 5990,
+      "share_count": 8,
+      "comment_count": 71,
+      "play_count": 92700
+    },
+    "create_time": 1677310877000,
+    "desc": "C\u00d4 D\u00c2U \u0110\u00c1NG Y\u00caU QU\u00c1 #theanh28news #theanh28 #tiktoknews ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "tiktoknews" },
+      { "title": "theanh28news" },
+      { "title": "theanh28" }
+    ],
+    "video": {
+      "id": 7203995324988378394,
+      "height": 1024,
+      "width": 576,
+      "duration": 41,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1027660,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/o0Eb5jACWBNR1QVrJyIA3fhD2uzkrfBxHtJB5P?x-expires=1677340800&x-signature=4ArAwMkdSb4tLVNQDq1rtzBqDg8%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/c69678d0f6304d48aaebcf839f261078_1677310891?x-expires=1677340800&x-signature=8zWUK0kBhmdPpEnUklbiodcnVQw%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/c68874fa14c341b8a8865b5d7061969c_1677310892?x-expires=1677340800&x-signature=h9A9uYMy5rju88n9o7%2B6vBJURS0%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oEenSKiKDvYgo4egHsWAkdbbPsSrEDEezQGfXB/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2006&bt=1003&cs=0&ds=3&ft=4fUEKM3a8Zmo0k60X64jVTsBPpWrKsdm&mime_type=video_mp4&qs=0&rc=NWk0NGdlOWlmZTo0Ojs7PEBpamU7dDw6ZjN1aTMzZjgzM0AuYGA1YmE0X2MxL2MyNDExYSMxLnIwcjRvanBgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677341679&l=202302251013565E83D03E8FAD4B2422B6&ply_type=2&policy=2&signature=4235e4fbce52dc27f40823766309ed41&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oEenSKiKDvYgo4egHsWAkdbbPsSrEDEezQGfXB/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2006&bt=1003&cs=0&ds=3&ft=4fUEKM3a8Zmo0k60X64jVTsBPpWrKsdm&mime_type=video_mp4&qs=0&rc=NWk0NGdlOWlmZTo0Ojs7PEBpamU7dDw6ZjN1aTMzZjgzM0AuYGA1YmE0X2MxL2MyNDExYSMxLnIwcjRvanBgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677341679&l=202302251013565E83D03E8FAD4B2422B6&ply_type=2&policy=2&signature=4235e4fbce52dc27f40823766309ed41&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203995431360727834,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/o0JSKtyszDrjfb0UW5huN4I7fBPUtbiQPEJt3C/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Thtah.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=ZzVkaGdnOzZlaGg8Z2hoOkBpamxsdWk6ZmV1aTMzZjU8M0A0Xi0vMjYtX2AxMWMvYGBfYSNhMjNqcjRfa3BgLS1kMWNzcw%3D%3D&btag=80000&expire=1677323679&l=202302251013565E83D03E8FAD4B2422B6&ply_type=3&policy=3&signature=00238221ce93a1bd9dd388e3566fafd7&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 41,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203961821307342082,
+    "stats": {
+      "digg_count": 134400,
+      "share_count": 1492,
+      "comment_count": 1545,
+      "play_count": 2800000
+    },
+    "create_time": 1677303290000,
+    "desc": "KH\u00d4NG M\u1ed8T L\u1edcI N\u00c0O DI\u1ec4N T\u1ea2 KHI C\u1ea2 NH\u00c0 CH\u1ed2NG C\u0168 XU\u1ed0NG TAY V\u1edaI C\u1ef0U NG\u01af\u1edcI M\u1eaaU N\u1ed4I TI\u1ebeNG H\u1ed2NG K\u00d4NG L\u00c0 TH\u00c1I THI\u00caN PH\u01af\u1ee2NG #theanh28news #theanh28 #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28" },
+      { "title": "tiktoknews" },
+      { "title": "theanh28news" }
+    ],
+    "video": {
+      "id": 7203961821307342082,
+      "height": 1024,
+      "width": 576,
+      "duration": 75,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 781648,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/oEDneCNSZEUciH3zID86DbYIgOefHQASMD7rAD?x-expires=1677340800&x-signature=sC0nP8pVCaf1wPiapO1DdBfwmAE%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/811083fefb9348749b1456343937a454_1677303292?x-expires=1677340800&x-signature=xlveAlThfgp56AShYoLop5N0bug%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e741c618ce5e41faa35ed5bd7bf7ca98_1677303293?x-expires=1677340800&x-signature=IvSV6gmK5SsIzGR0ExIwWgk3%2BGA%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oEXC9nffxIzMkKQA7MAgNJhJj5U0VIGBQHgMnB/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1526&bt=763&cs=0&ds=3&ft=4fUEKM3a8Zmo0n60X64jVBZUPpWrKsdm&mime_type=video_mp4&qs=0&rc=ZjRlNDllZ2UzNDozOTtnNUBpM2t1bGQ6ZmxzaTMzODgzNEAyY14xNTIwNTQxXzYtNmBiYSMzbzUxcjQwb3BgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341729&l=20230225101412CE3C71E3F7A053251D83&ply_type=2&policy=2&signature=bae45cd7083091bbacea3f77a7ea4a47&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oEXC9nffxIzMkKQA7MAgNJhJj5U0VIGBQHgMnB/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1526&bt=763&cs=0&ds=3&ft=4fUEKM3a8Zmo0n60X64jVBZUPpWrKsdm&mime_type=video_mp4&qs=0&rc=ZjRlNDllZ2UzNDozOTtnNUBpM2t1bGQ6ZmxzaTMzODgzNEAyY14xNTIwNTQxXzYtNmBiYSMzbzUxcjQwb3BgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341729&l=20230225101412CE3C71E3F7A053251D83&ply_type=2&policy=2&signature=bae45cd7083091bbacea3f77a7ea4a47&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203962790858476289,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/o8tHaFTjoBze957hXnf3eIJgDDBRUACOZFQgxE/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThKah.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=NDNlOTk3ZThkZGc8PGhpOkBpajhubmg6ZnlzaTMzODU8NEAyLy02LjVeNi0xNjZfXjEyYSMuXmNscjRfb3BgLS1kMS1zcw%3D%3D&btag=80000&expire=1677323728&l=20230225101412CE3C71E3F7A053251D83&ply_type=3&policy=3&signature=7714c03c39273ece5ef0db3d2ba30c30&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 75,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203948012454874370,
+    "stats": {
+      "digg_count": 54800,
+      "share_count": 769,
+      "comment_count": 1116,
+      "play_count": 1400000
+    },
+    "create_time": 1677300043000,
+    "desc": "\u201c\u00d4NG CH\u00c1U\u201d 2K5 BI\u1ebeN \u01af\u1edaC M\u01a0 DANG D\u1ede TH\u00c0NH S\u1ef0 TH\u1eacT NH\u01afNG N\u00d3 L\u1ea0 L\u1eaeM... \ud83e\udd23 #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "tiktoknews" },
+      { "title": "theanh28news" },
+      { "title": "theanh28" }
+    ],
+    "video": {
+      "id": 7203948012454874370,
+      "height": 1024,
+      "width": 576,
+      "duration": 57,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 797032,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/oAbHlerfEBnea5bDLk8DKIUNDo2kQACoZ5CgkA?x-expires=1677340800&x-signature=gkrKr%2FYoCxY0bkIyH5p%2B6ymoa20%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/06578c56c723477abd962aee83af3736_1677300045?x-expires=1677340800&x-signature=k0LUB0KPvgmHnHeAJ%2FnU4qRgqf8%3D",
+      "dynamic_cover": "https://p9-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/c1c95787222d4170b45ae2f22510e9ef_1677300046?x-expires=1677340800&x-signature=ZXb2FmtFj5V13q7pZFpo9i8xSrQ%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o4qED8UgdiAymrfI7PIGz2AyhAHRJCPfHC1rf5/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1556&bt=778&cs=0&ds=3&ft=4fUEKM3a8Zmo0H60X64jVnQ6PpWrKsdm&mime_type=video_mp4&qs=0&rc=NTY5Njs1aDtmZzpnNDM6O0BpM3Z0bGQ6ZmxzaTMzODgzNEBjMGFeNl40NV4xNDMvMjAzYSNucjUxcjRnLnBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341718&l=20230225101420C26742DC3F6ED124DF8C&ply_type=2&policy=2&signature=51b1fdb54c18039eedfe7af9b0a891cb&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o4qED8UgdiAymrfI7PIGz2AyhAHRJCPfHC1rf5/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1556&bt=778&cs=0&ds=3&ft=4fUEKM3a8Zmo0H60X64jVnQ6PpWrKsdm&mime_type=video_mp4&qs=0&rc=NTY5Njs1aDtmZzpnNDM6O0BpM3Z0bGQ6ZmxzaTMzODgzNEBjMGFeNl40NV4xNDMvMjAzYSNucjUxcjRnLnBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341718&l=20230225101420C26742DC3F6ED124DF8C&ply_type=2&policy=2&signature=51b1fdb54c18039eedfe7af9b0a891cb&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203948848815819521,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oUeEHCDZVYnJTKALFuWjeb5DbFgObHUok6IReF/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Thkah.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=PDVpZGdlPGU2aDc0ODc5ZUBpamVkcTU6Zm5zaTMzODU8NEAwLzYyNl9fNV4xYF4zLy9gYSMwM2tvcjRfL3BgLS1kMS1zcw%3D%3D&btag=80000&expire=1677323718&l=20230225101420C26742DC3F6ED124DF8C&ply_type=3&policy=3&signature=eb0d43d8661371d185e8a8de4a048d0a&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 57,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203937968741010690,
+    "stats": {
+      "digg_count": 1912,
+      "share_count": 3,
+      "comment_count": 36,
+      "play_count": 38700
+    },
+    "create_time": 1677297726000,
+    "desc": "2 B\u1ed0 CON CH\u0102M CH\u1ec8 TH\u1ebe N\u00c0Y KH\u00d4NG \u1eb4M GI\u1ea2I NH\u1ea4T TH\u00cc H\u01a0I PH\u00cd #theanh28news #theanh28 #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28" },
+      { "title": "tiktoknews" },
+      { "title": "theanh28news" }
+    ],
+    "video": {
+      "id": 7203937968741010690,
+      "height": 1024,
+      "width": 576,
+      "duration": 41,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 776330,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/67755d3aac194b0f9f5df7b9c3388f2e_1677297728?x-expires=1677340800&x-signature=Qp0cimVLEZ9ATcCBdZxo4fgBkoo%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/fed469e120f240039670c38db7157a50_1677297728?x-expires=1677340800&x-signature=gQ%2FKWyr7%2FmtN%2Fljg%2FJXM31yxp4Y%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/9bef4cc17c2a46fca5dde00fc6f61f13_1677297728?x-expires=1677340800&x-signature=2nuiTNE5cdVpuXnw%2ByhjPcaJKJk%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oIbHaorjE0nel5mDniegdI2EDtDfUACPYSQgMA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1516&bt=758&cs=0&ds=3&ft=4fUEKM3a8Zmo0~p0X64jVdWUPpWrKsdm&mime_type=video_mp4&qs=0&rc=MzNpNThkaGZmNTYzNDRkNEBpamxwOjo6ZjpyaTMzODgzNEAzXzReLV4yXmAxXjJgLjM2YSNqZHBncjRfZHBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341710&l=2023022510142891EF4ECFDD73632543EA&ply_type=2&policy=2&signature=2e235f14ba5abafdfee13914c407b824&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oIbHaorjE0nel5mDniegdI2EDtDfUACPYSQgMA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1516&bt=758&cs=0&ds=3&ft=4fUEKM3a8Zmo0~p0X64jVdWUPpWrKsdm&mime_type=video_mp4&qs=0&rc=MzNpNThkaGZmNTYzNDRkNEBpamxwOjo6ZjpyaTMzODgzNEAzXzReLV4yXmAxXjJgLjM2YSNqZHBncjRfZHBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341710&l=2023022510142891EF4ECFDD73632543EA&ply_type=2&policy=2&signature=2e235f14ba5abafdfee13914c407b824&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203938866162649857,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oYPDwilEQc8ogheCp5PnbDmThAE8UeYAWbNHoe/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThQsh.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=OmdpaTwzNWg7NzhkNzk0ZUBpam40bWk6ZmpyaTMzODU8NEAzNjMtMTRfNTMxYGAvNi41YSNtMm8wcjQwZHBgLS1kMS1zcw%3D%3D&btag=80000&expire=1677323710&l=2023022510142891EF4ECFDD73632543EA&ply_type=3&policy=3&signature=effc9fe9e3687896bf9743ccdcd04a60&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 41,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203929743786265857,
+    "stats": {
+      "digg_count": 6771,
+      "share_count": 6,
+      "comment_count": 103,
+      "play_count": 77500
+    },
+    "create_time": 1677295783000,
+    "desc": "RA \u0110\u01af\u1edcNG NGANG T\u00c0NG, QU\u1eacY PH\u00c1, NH\u01afNG V\u1ec0 NH\u00c0 V\u1eaaN L\u00c0 \"CON NGOAN C\u1ee6A M\u1eb8\" #theanh28news #theanh28 #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28news" },
+      { "title": "theanh28" },
+      { "title": "tiktoknews" }
+    ],
+    "video": {
+      "id": 7203929743786265857,
+      "height": 1024,
+      "width": 576,
+      "duration": 86,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1161799,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e13c7660f88e4003af4437033b404da0_1677295785?x-expires=1677340800&x-signature=jx7T0NNLaKyj6sBILNFL%2FIeORQo%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/cf1c56b9c4074b01a068f0e86229866b_1677295785?x-expires=1677340800&x-signature=0DE0Z6Br3%2By%2FmCVbwe6PzOc2eyE%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/499e8596fbcd416f86937f67eac3a02b_1677295786?x-expires=1677340800&x-signature=wIkim7d%2B%2FrIA2VVWOWuKX96bfWM%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ocngOQMrjDBIAQm5BLfhgAz3CfAVBNCUIHNLQM/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2268&bt=1134&cs=0&ds=3&ft=4fUEKM3a8Zmo0zp0X64jVhkfPpWrKsdm&mime_type=video_mp4&qs=0&rc=Zzc8aDU7ZDs5NmQ1Z2dmN0Bpampyc2U6ZnVyaTMzODgzNEAtYF5eNjBeX18xYC01YC1iYSNpanAwcjRnLXBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341763&l=2023022510143610A8D72491BC8C2491D5&ply_type=2&policy=2&signature=eab81943ac76cdfe1d5bf88c3077f0bc&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ocngOQMrjDBIAQm5BLfhgAz3CfAVBNCUIHNLQM/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2268&bt=1134&cs=0&ds=3&ft=4fUEKM3a8Zmo0zp0X64jVhkfPpWrKsdm&mime_type=video_mp4&qs=0&rc=Zzc8aDU7ZDs5NmQ1Z2dmN0Bpampyc2U6ZnVyaTMzODgzNEAtYF5eNjBeX18xYC01YC1iYSNpanAwcjRnLXBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341763&l=2023022510143610A8D72491BC8C2491D5&ply_type=2&policy=2&signature=eab81943ac76cdfe1d5bf88c3077f0bc&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203930536690092802,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/ogFaUCQJUUBMJ7zgBBgfAfLQINgGjVhBJQBK5C/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThEsh.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=ZzVoODszaGY1OmQ1aThkZ0BpMzN0bGQ6ZmRyaTMzODU8NEBiMF9jXy82X18xXjRjNDI2YSMuLTUxcjRnLnBgLS1kMS1zcw%3D%3D&btag=80000&expire=1677323763&l=2023022510143610A8D72491BC8C2491D5&ply_type=3&policy=3&signature=5e231513f6cac56cdd09a15138b7240a&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 86,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203739311789886722,
+    "stats": {
+      "digg_count": 5518,
+      "share_count": 10,
+      "comment_count": 62,
+      "play_count": 82300
+    },
+    "create_time": 1677251536000,
+    "desc": "B\u1edeI V\u00cc... CON L\u00c0 T\u1ea4T C\u1ea2 NGU\u1ed2N S\u1ed0NG C\u1ee6A M\u1eb8 #theanh28news #theanh28 #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28news" },
+      { "title": "theanh28" },
+      { "title": "tiktoknews" }
+    ],
+    "video": {
+      "id": 7203739311789886722,
+      "height": 1024,
+      "width": 576,
+      "duration": 76,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 911378,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/o4HNEghzjANDFKTB0HN4EKiI4jfC8rAeieCKiA?x-expires=1677340800&x-signature=kf2pDf33sWlpzsGwqSnfR7gv5DY%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/d7eea988bc1b4ab1b21f4b4e0229ac50_1677251539?x-expires=1677340800&x-signature=hc3UzfckmyMGxKajnTR%2FGWceRSE%3D",
+      "dynamic_cover": "https://p9-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/4bf306f4c4ad4abdb7e85a211416231c_1677251540?x-expires=1677340800&x-signature=cwK1Sl0BgjnncX3qpX4JZJe%2Bj%2B8%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oMn5sDUgNope8ewEVgUbHEEeuKQECrABxHQNAD/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1780&bt=890&cs=0&ds=3&ft=4fUEKM3a8Zmo0Yp0X64jVXb6PpWrKsdm&mime_type=video_mp4&qs=0&rc=NGk3OTRpZmQ2aGc8OzRnM0BpM2Q7aWQ6ZnlnaTMzODgzNEBhNF41Xl5fNmIxM14tXmAyYSNlXjEtcjQwM3BgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341766&l=20230225101449903CBDE6852C0C249575&ply_type=2&policy=2&signature=2df2c756525d29bc6c8239c2603cd6c6&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oMn5sDUgNope8ewEVgUbHEEeuKQECrABxHQNAD/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1780&bt=890&cs=0&ds=3&ft=4fUEKM3a8Zmo0Yp0X64jVXb6PpWrKsdm&mime_type=video_mp4&qs=0&rc=NGk3OTRpZmQ2aGc8OzRnM0BpM2Q7aWQ6ZnlnaTMzODgzNEBhNF41Xl5fNmIxM14tXmAyYSNlXjEtcjQwM3BgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341766&l=20230225101449903CBDE6852C0C249575&ply_type=2&policy=2&signature=2df2c756525d29bc6c8239c2603cd6c6&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203740503744072449,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oYDhR089I5KUQxfBP4pztB0JnpCfQLGgBNVjUC/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Thxsh.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=OzNlOmc1NWQ3PDU1N2c0aEBpM2k6amQ6Zm5naTMzODU8NEAzL2AwXmMvNjIxLjEuYWExYSNubGZwcjRvNHBgLS1kMS1zcw%3D%3D&btag=80000&expire=1677323766&l=20230225101449903CBDE6852C0C249575&ply_type=3&policy=3&signature=477d4823112f01a08a8b896cd77568fc&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 76,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203641889847807259,
+    "stats": {
+      "digg_count": 31800,
+      "share_count": 77,
+      "comment_count": 267,
+      "play_count": 386600
+    },
+    "create_time": 1677228582000,
+    "desc": "TH\u00c0NH T\u00c2M XIN V\u00cdA \u1ea0 \ud83d\ude4f #theanh28news #tiktoknews #theanh28 ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28news" },
+      { "title": "tiktoknews" },
+      { "title": "theanh28" }
+    ],
+    "video": {
+      "id": 7203641889847807259,
+      "height": 1024,
+      "width": 576,
+      "duration": 26,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1366762,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/o4P48HfFPge8O5AEzeV2nP1is5fEErgUwHQPAG?x-expires=1677340800&x-signature=7PBhC%2BFtZtAMT8%2BpvN4UC9lz30Q%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/1e0b5314eb864532bf4a47c153b0399b_1677228593?x-expires=1677340800&x-signature=nPy3phqC%2F7H2GeYi8nYOZGJwcUY%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/c36408b48a9b42c99b67cbfc9ec03023_1677228586?x-expires=1677340800&x-signature=XrBhD9uho8HIA2KdzKQVtrvZv68%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oceEpDing5IEHn88bnHrGgAfQqwckeoRHnQnme/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2668&bt=1334&cs=0&ds=3&ft=4fUEKM3a8Zmo0bp0X64jVDQ6PpWrKsdm&mime_type=video_mp4&qs=0&rc=ZTVkN2c6N2hnNjU7aDg5NEBpanZpbWk6ZnM6aTMzZjgzM0AwLmIuNi80NWAxNTJgNS8tYSNscGRucjRvZ3BgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677341723&l=20230225101455756A2AC2C8495123DB55&ply_type=2&policy=2&signature=31002fb347ecbae8cea1de08ab428028&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oceEpDing5IEHn88bnHrGgAfQqwckeoRHnQnme/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2668&bt=1334&cs=0&ds=3&ft=4fUEKM3a8Zmo0bp0X64jVDQ6PpWrKsdm&mime_type=video_mp4&qs=0&rc=ZTVkN2c6N2hnNjU7aDg5NEBpanZpbWk6ZnM6aTMzZjgzM0AwLmIuNi80NWAxNTJgNS8tYSNscGRucjRvZ3BgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677341723&l=20230225101455756A2AC2C8495123DB55&ply_type=2&policy=2&signature=31002fb347ecbae8cea1de08ab428028&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 6817429116187314177,
+      "title": "Animal baby",
+      "play_url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/d80200bc80934ca6a7ab71ff9ff71b9d",
+      "author_name": "\u4e0a\u91ce\u71ff",
+      "duration": 86,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/e6b8f7def46b46ed971ba784eaef6a28.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/e6b8f7def46b46ed971ba784eaef6a28.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/e6b8f7def46b46ed971ba784eaef6a28.jpeg"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203627421432663297,
+    "stats": {
+      "digg_count": 8421,
+      "share_count": 42,
+      "comment_count": 103,
+      "play_count": 188400
+    },
+    "create_time": 1677225378000,
+    "desc": "PH\u00c1T MINH C\u1ee6A NG\u01af\u1edcI L\u01af\u1edcI NH\u01afNG MANG T\u1ea6M C\u1ee0 C\u1ee6A NG\u01af\u1edcI GI\u00c0U \ud83d\ude02 #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28" },
+      { "title": "tiktoknews" },
+      { "title": "theanh28news" }
+    ],
+    "video": {
+      "id": 7203627421432663297,
+      "height": 1024,
+      "width": 576,
+      "duration": 38,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 2269570,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/80fe52969a914cc38a6aa0e02cd88c09_1677225379?x-expires=1677340800&x-signature=o2lXDuwZITMGOa8RaPaqwGsoXEE%3D",
+      "origin_cover": "https://p9-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/b75e66d739314c3fbb870e451d49415b_1677225380?x-expires=1677340800&x-signature=b6h5jplUpbb69kfW4sJdoKEX60U%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/993545db16fa4c309d81a9cebaf6a87d_1677225380?x-expires=1677340800&x-signature=sk%2F1Wrr8i%2FIidT0imBvZnyi2FCQ%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o4Gkg8n6rED6hoeMk4DQI1CAbgOAbrUfeHb0i3/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=4432&bt=2216&cs=0&ds=3&ft=4fUEKM3a8Zmo0kp0X64jVnQ6PpWrKsdm&mime_type=video_mp4&qs=0&rc=NTw4OWg7OGVoaGYzODpnOkBpM2t4amQ6Zm05aTMzODgzNEAvXzFjMGMyXzMxYC01MC02YSNhYmVwcjQwbnBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341740&l=202302251015014D58D07E279F5F23FB7D&ply_type=2&policy=2&signature=eac9cfecef22bd50166a745edd6613dd&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o4Gkg8n6rED6hoeMk4DQI1CAbgOAbrUfeHb0i3/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=4432&bt=2216&cs=0&ds=3&ft=4fUEKM3a8Zmo0kp0X64jVnQ6PpWrKsdm&mime_type=video_mp4&qs=0&rc=NTw4OWg7OGVoaGYzODpnOkBpM2t4amQ6Zm05aTMzODgzNEAvXzFjMGMyXzMxYC01MC02YSNhYmVwcjQwbnBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341740&l=202302251015014D58D07E279F5F23FB7D&ply_type=2&policy=2&signature=eac9cfecef22bd50166a745edd6613dd&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203628139652582146,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/o4b6h8loDozQAUeeG4b2OejETkRZHnglDSCaCK/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Thtsh.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=Zzs0ZWQ8ODo3NjU5PDtoZUBpamo4b2g6Zjs5aTMzODU8NEA2NTItLWJjNV8xMi5jMDMyYSNncjBocjRvb3BgLS1kMS1zcw%3D%3D&btag=80000&expire=1677323740&l=202302251015014D58D07E279F5F23FB7D&ply_type=3&policy=3&signature=fe4c21295c000abd6e95677ca9377171&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 38,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203619166824172802,
+    "stats": {
+      "digg_count": 6696,
+      "share_count": 74,
+      "comment_count": 151,
+      "play_count": 106600
+    },
+    "create_time": 1677223387000,
+    "desc": "TUY\u00caN QUANG: M\u1eb8 RU\u1ed8T TI\u1ebeP TAY CHO NH\u00c2N T\u00ccNH TH\u1ef0C HI\u1ec6N H\u00c0NH VI \u201cKH\u00d4NG CHU\u1ea8N M\u1ef0C\u201d V\u1edaI CON G\u00c1I M\u00ccNH... #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28" },
+      { "title": "theanh28news" },
+      { "title": "tiktoknews" }
+    ],
+    "video": {
+      "id": 7203619166824172802,
+      "height": 1024,
+      "width": 576,
+      "duration": 63,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 512892,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/43fef14b7da64258869064b282f3c018_1677223389?x-expires=1677340800&x-signature=Jo3vQGLKxbwQ0R%2Fjlrl4jlcKFHI%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/9db5b3ef6cd94c0097654d49926db12c_1677223389?x-expires=1677340800&x-signature=mYiQ1qzoPLjKOjPc93zXZQHLZZk%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/ca93b78bcd8747fcab3d7c9e95df2895_1677223390?x-expires=1677340800&x-signature=X2tcLAw85Y4ZFBVxltTfyHRfwtw%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/okgwXHmsDedGAe8vmggQzADyLBHeCcnZEo8brI/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1000&bt=500&cs=0&ds=3&ft=4fUEKM3a8Zmo0np0X64jV9RhjpWrKsdm&mime_type=video_mp4&qs=0&rc=aGdoM2g0ODRmZWZmPGhnM0BpMzc0N2Y6Zmo5aTMzODgzNEBgYC8zYS5hNWExMGIxMGIxYSM0M25vcjRfX3BgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341781&l=20230225101516AE290B7566C1D224A5E3&ply_type=2&policy=2&signature=26562b9cff6c98bf918a371417e06efd&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/okgwXHmsDedGAe8vmggQzADyLBHeCcnZEo8brI/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1000&bt=500&cs=0&ds=3&ft=4fUEKM3a8Zmo0np0X64jV9RhjpWrKsdm&mime_type=video_mp4&qs=0&rc=aGdoM2g0ODRmZWZmPGhnM0BpMzc0N2Y6Zmo5aTMzODgzNEBgYC8zYS5hNWExMGIxMGIxYSM0M25vcjRfX3BgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341781&l=20230225101516AE290B7566C1D224A5E3&ply_type=2&policy=2&signature=26562b9cff6c98bf918a371417e06efd&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203619597072075522,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oQfogf48TCPt6VeEu5RA2nH8HwhZTJRDgb8MyC/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThJsh.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=OzwzNDdnZWkzaDU3Nzo2OUBpajU7czU6ZnE5aTMzODU8NEBiYC1iLy0zNV4xX18tNWAzYSNjbDRrcjRfX3BgLS1kMS1zcw%3D%3D&btag=80000&expire=1677323781&l=20230225101516AE290B7566C1D224A5E3&ply_type=3&policy=3&signature=87d3319f098109c739f189d3a2718752&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 63,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203578536479821057,
+    "stats": {
+      "digg_count": 52000,
+      "share_count": 1535,
+      "comment_count": 1671,
+      "play_count": 1500000
+    },
+    "create_time": 1677214140000,
+    "desc": "V\u1ee4 EM B\u00c9 2 TU\u1ed4I \u0110\u00c3 X\u00c1C \u0110\u1ecaNH \u0110\u01af\u1ee2C NGUY\u00caN NH\u00c2N BAN \u0110\u1ea6U KHI\u1ebeN CH\u00c1U B\u00c9 KH\u00d4NG C\u00d2N D\u1ea4U HI\u1ec6U C\u1ee6A S\u1ef0 S\u1ed0NG #theanh28news #theanh28 #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "tiktoknews" },
+      { "title": "theanh28news" },
+      { "title": "theanh28" }
+    ],
+    "video": {
+      "id": 7203578536479821057,
+      "height": 1024,
+      "width": 576,
+      "duration": 47,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 944119,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/osVCxNC4Kg2VzXaIC3ChAsBQQBffEL0mjOCKjr?x-expires=1677340800&x-signature=61%2B42vVTqhXbKYCE%2BgAWAk6FS%2B0%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/2dedcad8f0e94f40bb148047fc92d56e_1677214142?x-expires=1677340800&x-signature=1CBxqeVVUqLchO3k4mPaadgoRgg%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/f1970d6a9258484fbf324071333bc4f8_1677214143?x-expires=1677340800&x-signature=5ikWBxB0U0wKmM8j1Zef39ilDOo%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o8CKCANmQfUQxQVDCsg3IKfhZTFOYj4dzFBCBw/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1842&bt=921&cs=0&ds=3&ft=4fUEKM3a8Zmo0_p0X64jVHs9PpWrKsdm&mime_type=video_mp4&qs=0&rc=OGc2PDhkOmY5PGhlZmU7ZEBpamh2PDU6ZnA3aTMzODgzNEBgNmIzMjNgX18xMDU0YGA1YSNsaGoycjQwL3BgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341771&l=20230225101523B59912957F2EEF2474ED&ply_type=2&policy=2&signature=c902b64430194557f54a4d6fc48e623e&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o8CKCANmQfUQxQVDCsg3IKfhZTFOYj4dzFBCBw/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1842&bt=921&cs=0&ds=3&ft=4fUEKM3a8Zmo0_p0X64jVHs9PpWrKsdm&mime_type=video_mp4&qs=0&rc=OGc2PDhkOmY5PGhlZmU7ZEBpamh2PDU6ZnA3aTMzODgzNEBgNmIzMjNgX18xMDU0YGA1YSNsaGoycjQwL3BgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341771&l=20230225101523B59912957F2EEF2474ED&ply_type=2&policy=2&signature=c902b64430194557f54a4d6fc48e623e&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203579881551448833,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oMDDNcnJerCe8Q4jZTYTECdoed9IUgLbAHIv8D/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Thish.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=NmY2aDM3aGQzaGdoZjNnZEBpajVvZWg6Zmk3aTMzODU8NEAyNi02M2MzNV8xNGMvMV8xYSM2bnNzcjRnMHBgLS1kMS1zcw%3D%3D&btag=80000&expire=1677323771&l=20230225101523B59912957F2EEF2474ED&ply_type=3&policy=3&signature=251f6d73d8c3bbc905b96f45bfbd8173&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 47,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203554966085061890,
+    "stats": {
+      "digg_count": 33400,
+      "share_count": 1017,
+      "comment_count": 1470,
+      "play_count": 697100
+    },
+    "create_time": 1677208531000,
+    "desc": "T\u1ef0 D\u01afNG TH\u1ea4Y \u0110\u01af\u1edcNG V\u1ec0 NH\u00c0 G\u1ea6N \u0110\u1ebeN L\u1ea0 #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28" },
+      { "title": "theanh28news" },
+      { "title": "tiktoknews" }
+    ],
+    "video": {
+      "id": 7203554966085061890,
+      "height": 1024,
+      "width": 576,
+      "duration": 50,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1049707,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/a622a33d284942fda86ab2f15db6428b_1677208533?x-expires=1677340800&x-signature=Ry7Y%2Fp%2F9LTqlYxHF0ULUyWgB%2Bk0%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/2a6d76df4c244f9fb6bc08b58d5adf14_1677208533?x-expires=1677340800&x-signature=xn1EIufPGgT%2FhasXJ23B%2B%2BZNP80%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/d895b4445640415d985a024e728aa7d6_1677208534?x-expires=1677340800&x-signature=pXV7YjMflmywBy5KH69Rh6sQ2NQ%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/okeEYbCwYAIrnSZRAaXDAkCgVDe8hEzjHcpbDf/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2050&bt=1025&cs=0&ds=3&ft=4fUEKM3a8Zmo0r50X64jVpS6PpWrKsdm&mime_type=video_mp4&qs=0&rc=NmU7PGVlMzg5Zmg1aTxoN0BpMzp0aDg6ZnM1aTMzODgzNEAvNF8xLTJjX14xMV9hNS8xYSMwYDNvcjQwaHBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341785&l=202302251015338B6FC933A2E5DF253A06&ply_type=2&policy=2&signature=4542378283d0f3d5cda56cd84787ca3e&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/okeEYbCwYAIrnSZRAaXDAkCgVDe8hEzjHcpbDf/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2050&bt=1025&cs=0&ds=3&ft=4fUEKM3a8Zmo0r50X64jVpS6PpWrKsdm&mime_type=video_mp4&qs=0&rc=NmU7PGVlMzg5Zmg1aTxoN0BpMzp0aDg6ZnM1aTMzODgzNEAvNF8xLTJjX14xMV9hNS8xYSMwYDNvcjQwaHBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341785&l=202302251015338B6FC933A2E5DF253A06&ply_type=2&policy=2&signature=4542378283d0f3d5cda56cd84787ca3e&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203555773245393665,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oUUTvgHECP0BkVB4nDImCeezqPMCeAbUDKoT49/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThPwh.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=aTs7aTY6aDUzPDllZjo7aEBpajV0aWQ6Zm81aTMzODU8NEAtXjVhLV9eXl8xM2A2LzAwYSMtYDAtcjRfa3BgLS1kMS1zcw%3D%3D&btag=80000&expire=1677323784&l=202302251015338B6FC933A2E5DF253A06&ply_type=3&policy=3&signature=1f5a6776e033879d5282d56539811695&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 50,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203553722050350338,
+    "stats": {
+      "digg_count": 36200,
+      "share_count": 755,
+      "comment_count": 3830,
+      "play_count": 1300000
+    },
+    "create_time": 1677208272000,
+    "desc": "C\u00d4 G\u00c1I H\u00d4M QUA T\u1ef0 NH\u1eacN L\u00c0 N\u1eee CH\u00cdNH REAL L\u00caN TI\u1ebeNG \u0110\u00cdNH CH\u00cdNH \u201cM\u00ccNH L\u00c0 GI\u1ea2 M\u1ea0O\u201d #theanh28  #theanh28news  #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28news" },
+      { "title": "tiktoknews" },
+      { "title": "theanh28" }
+    ],
+    "video": {
+      "id": 7203553722050350338,
+      "height": 1024,
+      "width": 576,
+      "duration": 64,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 932452,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/2b0ed7d357bb4badab49a5cde7ce0df0_1677208274?x-expires=1677340800&x-signature=8S5SCv1Mk4g3qVSZIGq09QuB4tU%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/f698acf21cdf437bb5f6803cd3fc7f9e_1677208273?x-expires=1677340800&x-signature=5U4Xh6pwLRrUamVy42oDoh9yFEY%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/a11d0aa4caf64a53927d7678dca13e73_1677208274?x-expires=1677340800&x-signature=%2FFGfPdRfOi%2BZ9aEEwRSgYaf2wDE%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/okhRI5CHDANU8HrzHDBtbQdA4B4neeRqCgeKaE/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1820&bt=910&cs=0&ds=3&ft=4fUEKM3a8Zmo0E50X64jVl5UPpWrKsdm&mime_type=video_mp4&qs=0&rc=Omk3Zjg7ODtnOWU0ZmQ0M0BpandvZDs6ZjM1aTMzODgzNEAwXi8tYl8wNS8xNDBfMy01YSNtcDJscjRfaXBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341804&l=20230225101539C56C7529D439C124653E&ply_type=2&policy=2&signature=499defecfc5bbf3ce8729b37a7bfdf94&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/okhRI5CHDANU8HrzHDBtbQdA4B4neeRqCgeKaE/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1820&bt=910&cs=0&ds=3&ft=4fUEKM3a8Zmo0E50X64jVl5UPpWrKsdm&mime_type=video_mp4&qs=0&rc=Omk3Zjg7ODtnOWU0ZmQ0M0BpandvZDs6ZjM1aTMzODgzNEAwXi8tYl8wNS8xNDBfMy01YSNtcDJscjRfaXBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341804&l=20230225101539C56C7529D439C124653E&ply_type=2&policy=2&signature=499defecfc5bbf3ce8729b37a7bfdf94&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203554669640026882,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/osQPH8fWbikFoC834YWDDN1EHfgt4erhWA24TK/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Thcwh.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=NDVmNzdpPGVoOzU8Njs0aEBpamlraDU6Zm41aTMzODU8NEAuXzAuMjIyXzMxNmIwLzJjYSNrMGpvcjRnaXBgLS1kMS1zcw%3D%3D&btag=80000&expire=1677323804&l=20230225101539C56C7529D439C124653E&ply_type=3&policy=3&signature=d9dcba32c1310cdf8aa15c0b80e83fce&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 64,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203552351330848001,
+    "stats": {
+      "digg_count": 4395,
+      "share_count": 21,
+      "comment_count": 190,
+      "play_count": 72500
+    },
+    "create_time": 1677207905000,
+    "desc": "N\u1eee CH\u00cdNH REAL KH\u00d4NG D\u00d9NG TIKTOK!!! #theanh28news #theanh28 #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "tiktoknews" },
+      { "title": "theanh28news" },
+      { "title": "theanh28" }
+    ],
+    "video": {
+      "id": 7203552351330848001,
+      "height": 1024,
+      "width": 576,
+      "duration": 33,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 778997,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/34f49a762e0842718400af382b33ad89_1677207906?x-expires=1677340800&x-signature=mdyVi7BeQDe7mCH3D9ydaJQsfDE%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/d04647c5a0d54b8b9daf03d9a4b8d391_1677207906?x-expires=1677340800&x-signature=VOcjeCDXN6ni9vc%2F5KTeYrr8UwA%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/121120168fc348039ed4f56927ece8a7_1677207907?x-expires=1677340800&x-signature=vXuOujsAdIKzSigrOfQq9O2daEo%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oMCEreQnYej8ACgHKHDBrBADlDIxbDenU4KWs6/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1520&bt=760&cs=0&ds=3&ft=4fUEKM3a8Zmo0w50X64jVUQ6PpWrKsdm&mime_type=video_mp4&qs=0&rc=M2YzZTo5Mzg5ZjM2NTY3NEBpM3hvODQ6Zmo1aTMzODgzNEAtMDUxNl41NTUxLi0uNC8tYSNyMGBqcjRfZnBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341784&l=20230225101550EDD8B6F3FB6433250EC0&ply_type=2&policy=2&signature=5eb3c9471e83a47e456f4a15c1462ba5&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oMCEreQnYej8ACgHKHDBrBADlDIxbDenU4KWs6/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1520&bt=760&cs=0&ds=3&ft=4fUEKM3a8Zmo0w50X64jVUQ6PpWrKsdm&mime_type=video_mp4&qs=0&rc=M2YzZTo5Mzg5ZjM2NTY3NEBpM3hvODQ6Zmo1aTMzODgzNEAtMDUxNl41NTUxLi0uNC8tYSNyMGBqcjRfZnBgLS1kLy1zcw%3D%3D&btag=80000&expire=1677341784&l=20230225101550EDD8B6F3FB6433250EC0&ply_type=2&policy=2&signature=5eb3c9471e83a47e456f4a15c1462ba5&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203553084714011394,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/ogtxSFIUIhVjbxNBBKjU4zWBfU36QqwNgCLfjJ/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Thowh.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=aDdkODlmOjkzOztmNTo2ZUBpM29oeDg6ZnI1aTMzODU8NEA0YTItLi5jNS0xY2FjMmAwYSNeaGgycjRnZnBgLS1kMS1zcw%3D%3D&btag=80000&expire=1677323784&l=20230225101550EDD8B6F3FB6433250EC0&ply_type=3&policy=3&signature=b38103bdac1585c1312d35abb9964619&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 33,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203388569388338433,
+    "stats": {
+      "digg_count": 248300,
+      "share_count": 4691,
+      "comment_count": 10300,
+      "play_count": 2700000
+    },
+    "create_time": 1677169899000,
+    "desc": "\u00d4NG TR\u1edcI B\u1ea4T C\u00d4NG TH\u1ebe NH\u1ec2 #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "tiktoknews" },
+      { "title": "theanh28" },
+      { "title": "theanh28news" }
+    ],
+    "video": {
+      "id": 7203388569388338433,
+      "height": 1024,
+      "width": 576,
+      "duration": 43,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 360582,
+      "cover": "https://p9-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/d00a54f9c813478d8668de6e970839a2_1677169900?x-expires=1677340800&x-signature=S9eUZnxm1Vf02vxHr4ynozM1%2FgI%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/8dcd6b2ebce44602a99e93a8024c95c2_1677169900?x-expires=1677340800&x-signature=AMsuM43wB%2B0FKChDrJqaMBStTbI%3D",
+      "dynamic_cover": "https://p9-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/bd70ae7e12c645f58efc8f9b66e3300d_1677169901?x-expires=1677340800&x-signature=fvsX0DByugGFAvbOeRmmKOcJ9E4%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ooJQQBbD5g9PjBHQhUBTVeAFBRIceWC4nR75l3/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=704&bt=352&cs=0&ds=3&ft=4fUEKM3a8Zmo0F50X64jV.ihjpWrKsdm&mime_type=video_mp4&qs=0&rc=NWU2MzU6Zzs2ZWZpNDg7NUBpampnZDs6ZmpzaTMzODgzNEAyXmE2NDNeX2IxNDU1YGJjYSMwcDJscjRfNm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341813&l=20230225101609A20FBB90F8C38325076B&ply_type=2&policy=2&signature=95ddbf0269ff43c4f53576132259f3e0&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ooJQQBbD5g9PjBHQhUBTVeAFBRIceWC4nR75l3/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=704&bt=352&cs=0&ds=3&ft=4fUEKM3a8Zmo0F50X64jV.ihjpWrKsdm&mime_type=video_mp4&qs=0&rc=NWU2MzU6Zzs2ZWZpNDg7NUBpampnZDs6ZmpzaTMzODgzNEAyXmE2NDNeX2IxNDU1YGJjYSMwcDJscjRfNm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341813&l=20230225101609A20FBB90F8C38325076B&ply_type=2&policy=2&signature=95ddbf0269ff43c4f53576132259f3e0&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203389876388006658,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/o4UJpQjC8GrmC2n3zBI6hefLbvKB2gNAhlUzcP/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Thpwh.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=ZWc8ZmY1ZjdpO2doNGQ3aEBpajR1OjM6ZnVzaTMzODU8NEA1YDUuLzVgNmAxX181L2MyYSNnaTNncjQwNm9gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323813&l=20230225101609A20FBB90F8C38325076B&ply_type=3&policy=3&signature=2eecac92612f5ae6d80f03656c9fd1b4&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 44,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203382507918740738,
+    "stats": {
+      "digg_count": 8780,
+      "share_count": 31,
+      "comment_count": 181,
+      "play_count": 239100
+    },
+    "create_time": 1677168486000,
+    "desc": "DU L\u1ecaCH KI\u1ec2U N\u00c0Y PH\u1ea2I \u0110I \u0110\u00caM M\u1edaI CHU\u1ea8N B\u00c0I #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28" },
+      { "title": "tiktoknews" },
+      { "title": "theanh28news" }
+    ],
+    "video": {
+      "id": 7203382507918740738,
+      "height": 1024,
+      "width": 576,
+      "duration": 61,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 2076527,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/3344a4059ac242009cbdeae2c9ec8f0c_1677168487?x-expires=1677340800&x-signature=CXOfJRJn0z1TGuXtFJkysZcBXNw%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/438dd31a23a44a11a23fbf03dc715173_1677168490?x-expires=1677340800&x-signature=P81xwwGcki9MEkFZK9KRoEqN3Vg%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/419974a77e5f4dcc93ae58dc7a1b0302_1677168488?x-expires=1677340800&x-signature=2sAZf28AK%2FOGMyYjHYy0xldi6go%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oYABAEU3sTjRbByesfn4PhzBQ9wVD88gRuRCYn/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C0%7C0&br=4054&bt=2027&cs=0&ds=3&ft=4fUEKM3a8Zmo0750X64jV~vejpWrKsdm&mime_type=video_mp4&qs=0&rc=ODZmZTdkOWQzPDNpN2ZpaUBpM29raGU6ZmZyaTMzODgzNEBhMjYwXjVhNV8xMF4tLzAzYSMwNGIvcjRvcm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341836&l=20230225101614E4B024BCFD2604255763&ply_type=2&policy=2&signature=ec322481750e3feed454d2eac819f61b&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oYABAEU3sTjRbByesfn4PhzBQ9wVD88gRuRCYn/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C0%7C0&br=4054&bt=2027&cs=0&ds=3&ft=4fUEKM3a8Zmo0750X64jV~vejpWrKsdm&mime_type=video_mp4&qs=0&rc=ODZmZTdkOWQzPDNpN2ZpaUBpM29raGU6ZmZyaTMzODgzNEBhMjYwXjVhNV8xMF4tLzAzYSMwNGIvcjRvcm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341836&l=20230225101614E4B024BCFD2604255763&ply_type=2&policy=2&signature=ec322481750e3feed454d2eac819f61b&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203383797943995138,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oI3Be2z7f8t09j3IxJx4CBKU2MNIUQONgj4Tch/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Thewh.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=ZjU4O2hoZjM0O2c4Mzw4O0BpM2duN2Y6ZnRyaTMzODU8NEAvYzYwNGIvNjYxXzNjY2A0YSNwaW1vcjQwcm9gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323836&l=20230225101614E4B024BCFD2604255763&ply_type=3&policy=3&signature=d2c38ee7ea8cf902539a6ed28b45c35e&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 61,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203349305309105409,
+    "stats": {
+      "digg_count": 16500,
+      "share_count": 355,
+      "comment_count": 1056,
+      "play_count": 466500
+    },
+    "create_time": 1677160739000,
+    "desc": "HI\u1ec6U TR\u01af\u1edeNG CHO BI\u1ebeT NGUY\u00caN NH\u00c2N \u0110\u1ebeN T\u1eea B\u1ec6NH L\u00dd, TUY NHI\u00caN GIA \u0110\u00ccNH CH\u00c1U L\u1ea0I KH\u00d4NG \u0110\u1ed2NG \u00dd V\u1edaI L\u00dd DO N\u00c0Y #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28" },
+      { "title": "tiktoknews" },
+      { "title": "theanh28news" }
+    ],
+    "video": {
+      "id": 7203349305309105409,
+      "height": 1024,
+      "width": 576,
+      "duration": 54,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 948450,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/cfe135201eb148508388dcb91a0f99e2_1677160741?x-expires=1677340800&x-signature=X3B6nHmsuAPqoUGxIpbKd4z0k6s%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/2f0bd12190304d578450d75cfdcfea93_1677160741?x-expires=1677340800&x-signature=IgOafEOBlFWpPWPx8%2F0fEFu%2B8Pw%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/d9bde65cad974bfabd2469277136ac93_1677160742?x-expires=1677340800&x-signature=INIsUgymmMZsE1YGO0qBqc%2BhZNw%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oAfP4CqmuE8lxfHdCAxLH2pMgx7eHiA98DyrAP/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1852&bt=926&cs=0&ds=3&ft=4fUEKM3a8Zmo0150X64jVAl-PpWrKsdm&mime_type=video_mp4&qs=0&rc=Omg4OmVmOmZnaTs2ZzU7NEBpanBvZzo6ZnNxaTMzODgzNEAvXi81MzU2NmIxYi8uMC9fYSMzYHFmcjRnLm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341839&l=2023022510162487532ED53BA30025B40F&ply_type=2&policy=2&signature=19c636d9e737542f53e059a1c2f2afe4&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oAfP4CqmuE8lxfHdCAxLH2pMgx7eHiA98DyrAP/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1852&bt=926&cs=0&ds=3&ft=4fUEKM3a8Zmo0150X64jVAl-PpWrKsdm&mime_type=video_mp4&qs=0&rc=Omg4OmVmOmZnaTs2ZzU7NEBpanBvZzo6ZnNxaTMzODgzNEAvXi81MzU2NmIxYi8uMC9fYSMzYHFmcjRnLm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341839&l=2023022510162487532ED53BA30025B40F&ply_type=2&policy=2&signature=19c636d9e737542f53e059a1c2f2afe4&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203350534076631809,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/o0CBNSs3qvjUtB8ZCHz7ZISQQecJhifgmQ2UEk/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Th6wh.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=PDQ1ZTg2NWZnZTo3OTVpZUBpM2ZzczU6ZjxxaTMzODU8NEA0YDZeLl42NmAxLy1gYS5gYSMvZzNrcjRfL29gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323839&l=2023022510162487532ED53BA30025B40F&ply_type=3&policy=3&signature=ad8afbbf53a86aabef51740981d44787&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 54,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203247521190169858,
+    "stats": {
+      "digg_count": 206100,
+      "share_count": 101,
+      "comment_count": 941,
+      "play_count": 4100000
+    },
+    "create_time": 1677136899000,
+    "desc": "10 \u0110I\u1ec2M CHO S\u1ef0 TINH T\u1ebe \ud83d\ude0e #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28" },
+      { "title": "tiktoknews" },
+      { "title": "theanh28news" }
+    ],
+    "video": {
+      "id": 7203247521190169858,
+      "height": 1024,
+      "width": 576,
+      "duration": 52,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1121701,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/672c4d860c194f53841c9b87167d3069_1677136901?x-expires=1677340800&x-signature=FvAu35Z7U8o1j%2FBj7jHF1jk0HC8%3D",
+      "origin_cover": "https://p9-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/397e719f86dd43b597a6f1c4789b232f_1677136901?x-expires=1677340800&x-signature=xUVRB6AfX4RfnlnWRToYoM2v4VQ%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/9946d81a72db428bb98c9d8572a39124_1677136902?x-expires=1677340800&x-signature=CvSLoBlZOOd8QM9QJ0c19qobidQ%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oYaEF3AfpHfsZb9PAYAPRKhu2eJvvFGABPeW34/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2190&bt=1095&cs=0&ds=3&ft=4fUEKM3a8Zmo0JQOX64jVEz-PpWrKsdm&mime_type=video_mp4&qs=0&rc=NTk3ZWdoOjM6ZzU4ZTdlZkBpM2o8Ojo6Zm1raTMzODgzNEBiNWE2My82Ni4xNTJjYS4tYSNfb29ncjRfNG9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341845&l=20230225101632E47A035683031124BFE1&ply_type=2&policy=2&signature=c20f3e48243f6a002e3a31e7390bf56e&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oYaEF3AfpHfsZb9PAYAPRKhu2eJvvFGABPeW34/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2190&bt=1095&cs=0&ds=3&ft=4fUEKM3a8Zmo0JQOX64jVEz-PpWrKsdm&mime_type=video_mp4&qs=0&rc=NTk3ZWdoOjM6ZzU4ZTdlZkBpM2o8Ojo6Zm1raTMzODgzNEBiNWE2My82Ni4xNTJjYS4tYSNfb29ncjRfNG9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341845&l=20230225101632E47A035683031124BFE1&ply_type=2&policy=2&signature=c20f3e48243f6a002e3a31e7390bf56e&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203248125627108098,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oss1ULuDJQ1bvQfgKgzxMQR9hC0jMhnedFBB8B/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThlZ9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=NTw1PDkzOGhkOGU7NmgzZkBpM3dmbTs6ZjRraTMzODU8NEA0Ly0xM2E2NTUxYDQwNmJeYSNga15icjRfNW9gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323845&l=20230225101632E47A035683031124BFE1&ply_type=3&policy=3&signature=335a264614eb2d4bb92b50e9c00f4608&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 52,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203245173688552706,
+    "stats": {
+      "digg_count": 65800,
+      "share_count": 213,
+      "comment_count": 813,
+      "play_count": 1100000
+    },
+    "create_time": 1677136340000,
+    "desc": "C\u00d2N G\u00cc N\u1eeeA \u0110\u00c2U M\u00c0 KH\u00d3C V\u1edaI S\u1ea6U... \ud83d\ude2a #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28" },
+      { "title": "theanh28news" },
+      { "title": "tiktoknews" }
+    ],
+    "video": {
+      "id": 7203245173688552706,
+      "height": 1024,
+      "width": 576,
+      "duration": 34,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1456367,
+      "cover": "https://p9-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/2a8c26f5c19c4971b265e09bd102e271_1677136342?x-expires=1677340800&x-signature=IeneBObUe5HAblfp0SbguDCRWg4%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/ae3554f53e1b42e4a448155b8ad240b7_1677136342?x-expires=1677340800&x-signature=LhJZaRIDNxefsQuJf30SCkiI7Ag%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/6613ab7483af488abcb83fb099beab8c_1677136343?x-expires=1677340800&x-signature=2FUBKlgSJJXtgLmdlK%2FCmCXmiHU%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oAcu4YGDIiVlgonQSB8jAIHnguQxMBf7bx9Cen/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2844&bt=1422&cs=0&ds=3&ft=4fUEKM3a8Zmo0dQOX64jVT.TPpWrKsdm&mime_type=video_mp4&qs=0&rc=OTg3O2Y0ZDY0Omg4PGdlOEBpamg4NTw6ZmhraTMzODgzNEA2NmAtYDZgXy4xX19jNF8uYSNfcjJvcjQwMG9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341835&l=20230225101638A3B7E461A3592523D3F0&ply_type=2&policy=2&signature=95add8323cc143dd25a8a100d87f443a&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oAcu4YGDIiVlgonQSB8jAIHnguQxMBf7bx9Cen/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2844&bt=1422&cs=0&ds=3&ft=4fUEKM3a8Zmo0dQOX64jVT.TPpWrKsdm&mime_type=video_mp4&qs=0&rc=OTg3O2Y0ZDY0Omg4PGdlOEBpamg4NTw6ZmhraTMzODgzNEA2NmAtYDZgXy4xX19jNF8uYSNfcjJvcjQwMG9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341835&l=20230225101638A3B7E461A3592523D3F0&ply_type=2&policy=2&signature=95add8323cc143dd25a8a100d87f443a&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203245735554910977,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oUfJB9DzUiaKu3QdUuHWErgInbCneBIp7BkjxU/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThsZ9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=OTQ1OGc1OTNmOTQzNDo2aUBpam48bzM6Zm9raTMzODU8NEBhNDIvY15fXzAxMTNiMzRjYSNzb21qcjRnMG9gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323834&l=20230225101638A3B7E461A3592523D3F0&ply_type=3&policy=3&signature=bf958f71cb5750e34b407aef8fc03f5f&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 34,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203242112358370561,
+    "stats": {
+      "digg_count": 50300,
+      "share_count": 2231,
+      "comment_count": 1613,
+      "play_count": 1700000
+    },
+    "create_time": 1677135676000,
+    "desc": "B\u00c9 TRAI 2 TU\u1ed4I RA \u0110I M\u00c3I M\u00c3I KH\u00d4NG R\u00d5 NGUY\u00caN NH\u00c2N CH\u1ec8 SAU 1 GI\u1ea4C NG\u1ee6 TR\u01afA T\u1ea0I TR\u01af\u1edcNG M\u1ea6M NON#theanh28news #theanh28 #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28" },
+      { "title": "tiktoknews" },
+      { "title": "theanh28news" }
+    ],
+    "video": {
+      "id": 7203242112358370561,
+      "height": 1024,
+      "width": 576,
+      "duration": 27,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 700520,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/oUL3VwxKjEQiC5BCDB9fwnehIvzB2JAbHgNix6?x-expires=1677340800&x-signature=4kJDf%2BPSSB%2BLAB6aS7FNfb8dELA%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/203d14e227fc4fe89596fd2170a67381_1677135678?x-expires=1677340800&x-signature=3vb%2BjJ3ZB0WoxkgT8MaF77vme1Q%3D",
+      "dynamic_cover": "https://p9-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/0b62996be433403289f000461c0507c6_1677135678?x-expires=1677340800&x-signature=IEj3VuYbWU278LdIOE1LIihJ8uo%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oAj9zCLDUTwxBb2CIHC3MBAaQVf0UQN6Kgvzeh/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1368&bt=684&cs=0&ds=3&ft=4fUEKM3a8Zmo0LQOX64jVygUPpWrKsdm&mime_type=video_mp4&qs=0&rc=ZDk0aWQ4Nzw8aDU2aDtkO0BpamV3aDU6ZjZqaTMzODgzNEBgX2IuX2MyX2ExMzU1NjAzYSNsamlvcjRncm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341841&l=20230225101653E4B024BCFD2604256A33&ply_type=2&policy=2&signature=4df7db8ec246b721efaf432129ee34c4&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oAj9zCLDUTwxBb2CIHC3MBAaQVf0UQN6Kgvzeh/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1368&bt=684&cs=0&ds=3&ft=4fUEKM3a8Zmo0LQOX64jVygUPpWrKsdm&mime_type=video_mp4&qs=0&rc=ZDk0aWQ4Nzw8aDU2aDtkO0BpamV3aDU6ZjZqaTMzODgzNEBgX2IuX2MyX2ExMzU1NjAzYSNsamlvcjRncm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341841&l=20230225101653E4B024BCFD2604256A33&ply_type=2&policy=2&signature=4df7db8ec246b721efaf432129ee34c4&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203242863147174657,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/ogCgT3DeCO8UwCQjJmQBBgJs0hUJIGf3Gvx9tz/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Th5Z9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=OzM2Omk3ZTs6Zzc1ZmQ0Z0BpM3E5NzU6ZmlqaTMzODU8NEA0L14wL14uNWExYzQtNjUvYSM1Lm00cjRfcm9gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323841&l=20230225101653E4B024BCFD2604256A33&ply_type=3&policy=3&signature=b891cd4528de5170a65d19f1b3017b57&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 27,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203223664270068993,
+    "stats": {
+      "digg_count": 9163,
+      "share_count": 48,
+      "comment_count": 178,
+      "play_count": 161300
+    },
+    "create_time": 1677131387000,
+    "desc": "NGHE TI\u1ebeNG \u201cC\u1ea0CH\u201d PH\u00c1T RA M\u00c0 AI C\u0168NG TH\u1ea4Y \u0110AU GI\u00d9M #theanh28news #theanh28 #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28news" },
+      { "title": "theanh28" },
+      { "title": "tiktoknews" }
+    ],
+    "video": {
+      "id": 7203223664270068993,
+      "height": 1024,
+      "width": 576,
+      "duration": 52,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 439377,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/owAvkAgiwDAZaiLjAMCUQfItb5CPLBBQ1nZV9e?x-expires=1677340800&x-signature=5oJLPlh1dZrSvkfjVFghlCHprcY%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/758e466fc6724ef89336777db7778a76_1677131389?x-expires=1677340800&x-signature=xraPE6pneXuT30QC5T3j9RYcQuk%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/e0dcacc2c5254b45a300cf94df55f155_1677131390?x-expires=1677340800&x-signature=cjvW7PpR3mtJ7CTGVZnLxLU2Wlc%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ogLfogFMjnBax1wtBZeDg5nAC9AV8pgoQabAQv/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=858&bt=429&cs=0&ds=3&ft=4fUEKM3a8Zmo0jQOX64jVKRhjpWrKsdm&mime_type=video_mp4&qs=0&rc=NDw7ZTtkZzk7NDU0ZjM7NkBpM3Qza2Y6ZmppaTMzODgzNEAvXmJfMjRfXmAxNGFeLzVjYSNnLWNqcjQwcG9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341872&l=2023022510165922FC59B06FD15B24421E&ply_type=2&policy=2&signature=58c8ffb3c2ded2108bab3fed72cd48a1&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ogLfogFMjnBax1wtBZeDg5nAC9AV8pgoQabAQv/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=858&bt=429&cs=0&ds=3&ft=4fUEKM3a8Zmo0jQOX64jVKRhjpWrKsdm&mime_type=video_mp4&qs=0&rc=NDw7ZTtkZzk7NDU0ZjM7NkBpM3Qza2Y6ZmppaTMzODgzNEAvXmJfMjRfXmAxNGFeLzVjYSNnLWNqcjQwcG9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341872&l=2023022510165922FC59B06FD15B24421E&ply_type=2&policy=2&signature=58c8ffb3c2ded2108bab3fed72cd48a1&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203224448676268801,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oA8zWZAnPFfcJ1yeDtzfOJQjQGqtb2MAVmooXe/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThqZ9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=PDk0NGhmNWU4NWk1PGVoOkBpMzdvdGg6ZnlpaTMzODU8NEAxNi8wX18yNV8xXjYxLl4vYSNzZmo1cjRncG9gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323872&l=2023022510165922FC59B06FD15B24421E&ply_type=3&policy=3&signature=edd461b2b8b882bcc3c04a979135130d&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 52,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203216739629272322,
+    "stats": {
+      "digg_count": 15000,
+      "share_count": 106,
+      "comment_count": 157,
+      "play_count": 202800
+    },
+    "create_time": 1677129763000,
+    "desc": "CH\u1eb2NG C\u1ea6N V\u1eacT CH\u1ea4T CH\u1ec8 C\u1ea6N T\u00ccNH C\u1ea2M L\u00c0 \u0110\u1ee6 #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28news" },
+      { "title": "tiktoknews" },
+      { "title": "theanh28" }
+    ],
+    "video": {
+      "id": 7203216739629272322,
+      "height": 1024,
+      "width": 576,
+      "duration": 80,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1565040,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/00c25479ebea46db837ab13467c0651d_1677129764?x-expires=1677340800&x-signature=xfqp8tvNrS8y6MoShu9hVykl5iI%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/ee17232319c24969a58d76010551ec9f_1677129764?x-expires=1677340800&x-signature=BJn8ibzNyOrYyQxxWJtlMYOqsno%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/73af4963a6184b6db1721108e7c015dd_1677129765?x-expires=1677340800&x-signature=nby6BNZfFcc03Gyh8vo1k9EGzvw%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/owJdwJhAALA8oDeePvWPY2bTFfnNGFeRrAFPmt/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=3056&bt=1528&cs=0&ds=3&ft=4fUEKM3a8Zmo09QOX64jV8FUPpWrKsdm&mime_type=video_mp4&qs=0&rc=N2lmPDg1NTY2NTo0Z2Q5NUBpM213czk6ZmxpaTMzODgzNEAvMTEyNGMuNTMxMjViXzVgYSNxaTMxcjRfY29gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341906&l=20230225101704D141A6B34DAC82245AD0&ply_type=2&policy=2&signature=cbda160b9c55d29f32a43bb0cd31560b&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/owJdwJhAALA8oDeePvWPY2bTFfnNGFeRrAFPmt/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=3056&bt=1528&cs=0&ds=3&ft=4fUEKM3a8Zmo09QOX64jV8FUPpWrKsdm&mime_type=video_mp4&qs=0&rc=N2lmPDg1NTY2NTo0Z2Q5NUBpM213czk6ZmxpaTMzODgzNEAvMTEyNGMuNTMxMjViXzVgYSNxaTMxcjRfY29gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341906&l=20230225101704D141A6B34DAC82245AD0&ply_type=2&policy=2&signature=cbda160b9c55d29f32a43bb0cd31560b&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203217478595136258,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oMvjBtkCDlC8ZneCngWQ9eudJgIgnBgXUbqobQ/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThmZ9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=NTRoM2Q5M2Y8ZmQ3ZGk4ZEBpanAzcjg6ZjxpaTMzODU8NEA0Li4yYV4wNmIxMzY2YS8yYSNzYGVxcjRfZG9gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323906&l=20230225101704D141A6B34DAC82245AD0&ply_type=3&policy=3&signature=3c1d48fd084d6d841a632565a222ffb1&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 80,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203202953707146523,
+    "stats": {
+      "digg_count": 113700,
+      "share_count": 854,
+      "comment_count": 1149,
+      "play_count": 1300000
+    },
+    "create_time": 1677126388000,
+    "desc": "C\u00d4 D\u00c2U B\u1eca \u0110\u00c1M B\u1ea0N TH\u00c2N SHOW \u1ea2NH D\u00ccM TRONG CH\u00cdNH L\u1ec4 \u0110\u01af\u1edcNG \ud83e\udd23 #theanh28news #tiktoknews #theanh28 #ido #wedding ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "wedding" },
+      { "title": "ido" },
+      { "title": "theanh28news" },
+      { "title": "tiktoknews" },
+      { "title": "theanh28" }
+    ],
+    "video": {
+      "id": 7203202953707146523,
+      "height": 1024,
+      "width": 576,
+      "duration": 50,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1810566,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oYsVbBPzjB6OQqafhnm32AEMCDQ2NeOQ5VIvTt?x-expires=1677340800&x-signature=MfjVCqoxsoEmAa77OjjGVD8dBUg%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/1e13f7a4322d47ecbd3533f22371bfa8_1677126407?x-expires=1677340800&x-signature=2O7LIyhnho0MJiJ6S3J9hHSJBL8%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/dee61abd3da54827bde79dd9e7cf3a3a_1677126407?x-expires=1677340800&x-signature=XMjX3v3K6LiWWulKF7o9nEhmh1k%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oYj9f4C1RsuwBpzCharteDAPAV8ixPbl4QBnrD/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=3536&bt=1768&cs=0&ds=3&ft=4fUEKM3a8Zmo0ZQOX64jV5u6PpWrKsdm&mime_type=video_mp4&qs=0&rc=aDM7ZGY7M2RoNTQ4ZzVlZUBpM2o0aGg6ZnBoaTMzZjgzM0A1NjZhLi5eNi4xYV8vMF9gYSNqaF4zcjRnaW9gLS1kL2Nzcw%3D%3D&btag=80000&expire=1677341886&l=20230225101715E69186D9652A06244779&ply_type=2&policy=2&signature=3d1b7b5f7bdffcb4e5c4cd8f190ac6ea&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oYj9f4C1RsuwBpzCharteDAPAV8ixPbl4QBnrD/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=3536&bt=1768&cs=0&ds=3&ft=4fUEKM3a8Zmo0ZQOX64jV5u6PpWrKsdm&mime_type=video_mp4&qs=0&rc=aDM7ZGY7M2RoNTQ4ZzVlZUBpM2o0aGg6ZnBoaTMzZjgzM0A1NjZhLi5eNi4xYV8vMF9gYSNqaF4zcjRnaW9gLS1kL2Nzcw%3D%3D&btag=80000&expire=1677341886&l=20230225101715E69186D9652A06244779&ply_type=2&policy=2&signature=3d1b7b5f7bdffcb4e5c4cd8f190ac6ea&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7197407233179650049,
+      "title": "Em Dong Y (I Do)",
+      "play_url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oQ6kObuKnBHjeSEtdEDplxQf4BQoGuugPsZ2PC",
+      "author_name": "\u0110\u1ee9c Ph\u00fac & 911",
+      "duration": 30,
+      "original": false,
+      "album": "Em Dong Y (I Do)",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/32c0590904e6439aa12e0a0b883b66bf.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/32c0590904e6439aa12e0a0b883b66bf.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/32c0590904e6439aa12e0a0b883b66bf.jpeg"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203191321220123905,
+    "stats": {
+      "digg_count": 80900,
+      "share_count": 5683,
+      "comment_count": 3190,
+      "play_count": 1500000
+    },
+    "create_time": 1677123830000,
+    "desc": "\u0110ANG Y\u00caN \u0110ANG L\u00c0NH T\u1ef0 D\u01afNG L\u1ea0I M\u01afA...#theanh28news #theanh28 #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28" },
+      { "title": "theanh28news" },
+      { "title": "tiktoknews" }
+    ],
+    "video": {
+      "id": 7203191321220123905,
+      "height": 1024,
+      "width": 576,
+      "duration": 43,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1423007,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/fb714b6ee25c4843a28b398d4c3ea954_1677123832?x-expires=1677340800&x-signature=aOr%2BktMvMV%2Fbp2Z6iqt7xvTC24o%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/118e4250ffef4bc2a28cdba558a404ee_1677123832?x-expires=1677340800&x-signature=mt2UKnd6tkAdNK1zBup94qqq%2FqQ%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/ce1bc8686c774ce1b44c36ca7ab64d69_1677123833?x-expires=1677340800&x-signature=38c%2FkUaKJZ72i%2Fs9SKAwfQBriJ0%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ocvBCgnIeODG9wtxuVIYABACdTSQoQgbgju6eD/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2778&bt=1389&cs=0&ds=3&ft=4fUEKM3a8Zmo01QOX64jVLl6PpWrKsdm&mime_type=video_mp4&qs=0&rc=NjU8N2hpNDU6ZWg1ZzNkOkBpMzQ3aTw6ZjRoaTMzODgzNEBjYi8zMi5iNTYxYC0vNC0vYSNqLTZrcjRnLm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341892&l=2023022510172779EC345E2AE8EB24A1D5&ply_type=2&policy=2&signature=95864f63675df8477b7da0955cd13b18&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ocvBCgnIeODG9wtxuVIYABACdTSQoQgbgju6eD/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2778&bt=1389&cs=0&ds=3&ft=4fUEKM3a8Zmo01QOX64jVLl6PpWrKsdm&mime_type=video_mp4&qs=0&rc=NjU8N2hpNDU6ZWg1ZzNkOkBpMzQ3aTw6ZjRoaTMzODgzNEBjYi8zMi5iNTYxYC0vNC0vYSNqLTZrcjRnLm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341892&l=2023022510172779EC345E2AE8EB24A1D5&ply_type=2&policy=2&signature=95864f63675df8477b7da0955cd13b18&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203191986130897665,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oIBezNP8Uh1QUP4HnKjgfBZ2IyJ3COnXnBunz5/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Th6Z9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=PDhnOmc6PDtnNDs4ZTtmZ0BpajpocGk6ZnhoaTMzODU8NEBhM2A0NDIuNl8xYS0vYTRiYSNfYmJncjQwLm9gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323892&l=2023022510172779EC345E2AE8EB24A1D5&ply_type=3&policy=3&signature=7235ea63e94310531d176f2370c3781a&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 43,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203179966551330050,
+    "stats": {
+      "digg_count": 10600,
+      "share_count": 201,
+      "comment_count": 144,
+      "play_count": 235800
+    },
+    "create_time": 1677121197000,
+    "desc": "M\u1eb8 TUY\u1ec6T V\u1edcI NH\u1ea4T \ud83d\ude02 #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28news" },
+      { "title": "tiktoknews" },
+      { "title": "theanh28" }
+    ],
+    "video": {
+      "id": 7203179966551330050,
+      "height": 1024,
+      "width": 576,
+      "duration": 48,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1125277,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/d3f353c884eb4dbfa9c41a06fd8d84c3_1677121198?x-expires=1677340800&x-signature=%2FufDPioL%2BaaruBMC0SLkUC%2F9r00%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/73136c536be3446eb049015a34b71672_1677121199?x-expires=1677340800&x-signature=LWHC4MXDjPOgSn5JTbWnxuzP2YM%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/49794754f21a4c46a9c0303cd970e937_1677121199?x-expires=1677340800&x-signature=fe%2BK4xHxcAD8JMZm2Y5X2BjVpd8%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o8eMWMfj9AyJB6OgDJ5tnVrBQ5tbozy4CJGgQn/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2196&bt=1098&cs=0&ds=3&ft=4fUEKM3a8Zmo0VEOX64jVGL6PpWrKsdm&mime_type=video_mp4&qs=0&rc=ZWRkOTg4PGhnNDc7Zjw4PEBpanc3aTc6ZjZnaTMzODgzNEAzXjUzMzIxXzExXmEvXzJeYSMuNjRmcjRnM29gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341904&l=2023022510173479EC345E2AE8EB24A4EF&ply_type=2&policy=2&signature=2c459fce97c7f2f75df22ec0d76f8be8&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o8eMWMfj9AyJB6OgDJ5tnVrBQ5tbozy4CJGgQn/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2196&bt=1098&cs=0&ds=3&ft=4fUEKM3a8Zmo0VEOX64jVGL6PpWrKsdm&mime_type=video_mp4&qs=0&rc=ZWRkOTg4PGhnNDc7Zjw4PEBpanc3aTc6ZjZnaTMzODgzNEAzXjUzMzIxXzExXmEvXzJeYSMuNjRmcjRnM29gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341904&l=2023022510173479EC345E2AE8EB24A4EF&ply_type=2&policy=2&signature=2c459fce97c7f2f75df22ec0d76f8be8&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203180703675058945,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oAUD1vhgQIC8oDt1PNJV29bteannBBeQburjc2/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Th8c9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=OTkzNWRnZmVoNTU7NmhoaEBpM282bGc6ZmVnaTMzODU8NEBeM14xNjRjNWAxMGFgNjJiYSNhYW5ncjRvYW9gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323904&l=2023022510173479EC345E2AE8EB24A4EF&ply_type=3&policy=3&signature=e50c6f35f55c44b5615fe94487538314&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 48,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7203172156258176257,
+    "stats": {
+      "digg_count": 7245,
+      "share_count": 42,
+      "comment_count": 124,
+      "play_count": 114500
+    },
+    "create_time": 1677119380000,
+    "desc": "\u00d4N LUY\u1ec6N TH\u00d4I, CH\u1ee8 CH\u1edc \u0110\u1ee2I G\u00cc N\u1eeeA #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28news" },
+      { "title": "theanh28" },
+      { "title": "tiktoknews" }
+    ],
+    "video": {
+      "id": 7203172156258176257,
+      "height": 1024,
+      "width": 576,
+      "duration": 52,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 957916,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/9ac56769933047ac9433177e8dfd47fa_1677119383?x-expires=1677340800&x-signature=wF6w4pANexYJrEhpDDzRP1pgp10%3D",
+      "origin_cover": "https://p9-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/5f0250b5a5c34ebaa78f97d4a0e24215_1677119381?x-expires=1677340800&x-signature=a%2BXohjW%2B440WMeTpGlPMGcRz5Oo%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/7124f800459e4e5aa3ddd6c2f37edde2_1677119383?x-expires=1677340800&x-signature=GRjKF3i%2Fbn%2FtGADvpkLjuFrgNa4%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o0e98Frj9AHBBGEQDYgsjVzBQP2bURf9CQ9gIn/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1870&bt=935&cs=0&ds=3&ft=4fUEKM3a8Zmo0~EOX64jVl5UPpWrKsdm&mime_type=video_mp4&qs=0&rc=M2U5ZjplZjhmPGY5Nmk5M0Bpajl2N2Y6ZmtmaTMzODgzNEAvNmBfNWJjX14xYjFgXjBfYSNyLzAxcjQwcm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341913&l=2023022510174024A38BD300E33424D02A&ply_type=2&policy=2&signature=9321dabe6f617b59c1962e6f5b3abf46&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/o0e98Frj9AHBBGEQDYgsjVzBQP2bURf9CQ9gIn/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1870&bt=935&cs=0&ds=3&ft=4fUEKM3a8Zmo0~EOX64jVl5UPpWrKsdm&mime_type=video_mp4&qs=0&rc=M2U5ZjplZjhmPGY5Nmk5M0Bpajl2N2Y6ZmtmaTMzODgzNEAvNmBfNWJjX14xYjFgXjBfYSNyLzAxcjQwcm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341913&l=2023022510174024A38BD300E33424D02A&ply_type=2&policy=2&signature=9321dabe6f617b59c1962e6f5b3abf46&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7203172872167115521,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oAM2Kifhx7JxMUlIlBfjCz3zglQgwBF5ts9USP/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThQc9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=aWRpOTllZjZlNDU6N2Q1NUBpamY4aGk6ZjhmaTMzODU8NEA2YjMzMzMtXl4xMDY1MS1iYSNmMXJlcjRfc29gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323913&l=2023022510174024A38BD300E33424D02A&ply_type=3&policy=3&signature=df1596345c2cab4b45c1c7659203f5f6&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 52,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7202979451150273794,
+    "stats": {
+      "digg_count": 58400,
+      "share_count": 134,
+      "comment_count": 522,
+      "play_count": 1500000
+    },
+    "create_time": 1677074564000,
+    "desc": "SAU \u0110I \u0110\u1ee8NG PH\u1ea2I \u0110\u1ec2 \u00dd NH\u00c9 CH\u00c1U #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "tiktoknews" },
+      { "title": "theanh28" },
+      { "title": "theanh28news" }
+    ],
+    "video": {
+      "id": 7202979451150273794,
+      "height": 1024,
+      "width": 576,
+      "duration": 139,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1801981,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/oAIsQCDXrPK7A5nHZePXbheJaeFE3DoAgPD4CV?x-expires=1677340800&x-signature=jE5%2FOMiM3lDNnDC4eT3G1Uacobw%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/cff50a176e7d4b79bf89a55501eb0c80_1677074567?x-expires=1677340800&x-signature=NpKGssbpVPPhor9cpd%2B6BGVgVmI%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/5741422dbfb541b7aa0f8f01c9730c7c_1677074568?x-expires=1677340800&x-signature=HuHYlAXgrkKBr8azuqUkURQy4Sw%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oUHeQgDnBZbDPFagIHD2EhaoKeetJrA7K3CaYA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=3518&bt=1759&cs=0&ds=3&ft=4fUEKM3a8Zmo0EEOX64jVRuUPpWrKsdm&mime_type=video_mp4&qs=0&rc=ODtnZTRkNWYzNDdpZDlnNkBpampuPDU6Zmc0aTMzODgzNEAwLTMzYDFjNjExMS4zX19eYSNqYzFqcjRvc29gLS1kLy1zcw%3D%3D&btag=80000&expire=1677342007&l=202302251017472652AFEC0BE50F255CB6&ply_type=2&policy=2&signature=63f6beefedf183f693558baa799dd781&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/oUHeQgDnBZbDPFagIHD2EhaoKeetJrA7K3CaYA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=3518&bt=1759&cs=0&ds=3&ft=4fUEKM3a8Zmo0EEOX64jVRuUPpWrKsdm&mime_type=video_mp4&qs=0&rc=ODtnZTRkNWYzNDdpZDlnNkBpampuPDU6Zmc0aTMzODgzNEAwLTMzYDFjNjExMS4zX19eYSNqYzFqcjRvc29gLS1kLy1zcw%3D%3D&btag=80000&expire=1677342007&l=202302251017472652AFEC0BE50F255CB6&ply_type=2&policy=2&signature=63f6beefedf183f693558baa799dd781&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7202980434837375745,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/o0JpIofIIoQEBoc2BQzCUBeIJnjgIBjUCxhQtB/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Thcc9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=NWhnNzwzaDc3PDU7MzZpOkBpMzs1dDs6ZjU1aTMzODU8NEBgNC0wMDIvX2IxNi82MWBiYSNoZy9ncjRfLm9gLS1kMS1zcw%3D%3D&btag=80000&expire=1677324007&l=202302251017472652AFEC0BE50F255CB6&ply_type=3&policy=3&signature=45399eac0c795af8c657341b687bcf51&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 139,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7202971933883813122,
+    "stats": {
+      "digg_count": 2249,
+      "share_count": 4,
+      "comment_count": 49,
+      "play_count": 48200
+    },
+    "create_time": 1677072770000,
+    "desc": "PH\u00c1P LU\u1eacT \u0110\u00c3 L\u00caN TI\u1ebeNG !!! #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "theanh28news" },
+      { "title": "theanh28" },
+      { "title": "tiktoknews" }
+    ],
+    "video": {
+      "id": 7202971933883813122,
+      "height": 1024,
+      "width": 576,
+      "duration": 37,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 795808,
+      "cover": "https://p9-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/d076e515192849af98aba2d01bb11367_1677072772?x-expires=1677340800&x-signature=Rmf526rfd5whQxMpdCUp%2Bd4%2FeX4%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/98c7f63c978049ebb0d83763d68ecf34_1677072774?x-expires=1677340800&x-signature=Dk2ZU3PITWC5ZhYjajv024zoTJM%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/2158a82b849b495f8313451261aa0c02_1677072773?x-expires=1677340800&x-signature=M4b5Cgk2WFCtbPjAIJhreet0%2BsQ%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ooPyIQhzjgtBhL0QGjw2CJRUYDfs7VAecsB76g/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1554&bt=777&cs=0&ds=3&ft=4fUEKM3a8Zmo0WEOX64jVivBPpWrKsdm&mime_type=video_mp4&qs=0&rc=OGhpOWY4ODhlZzUzPDtnOEBpajxsaGU6ZnA0aTMzODgzNEAvMV9iMjMtNl8xYGM2YGIzYSM1L29kcjRfZm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341909&l=20230225101751722CD185D9F30024BCFB&ply_type=2&policy=2&signature=226073ab17acc340dd5f7c622933d2cb&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/ooPyIQhzjgtBhL0QGjw2CJRUYDfs7VAecsB76g/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1554&bt=777&cs=0&ds=3&ft=4fUEKM3a8Zmo0WEOX64jVivBPpWrKsdm&mime_type=video_mp4&qs=0&rc=OGhpOWY4ODhlZzUzPDtnOEBpajxsaGU6ZnA0aTMzODgzNEAvMV9iMjMtNl8xYGM2YGIzYSM1L29kcjRfZm9gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341909&l=20230225101751722CD185D9F30024BCFB&ply_type=2&policy=2&signature=226073ab17acc340dd5f7c622933d2cb&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7202972696739662593,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/oIBRCG7eXfjJKUwJIjhzLYNVUwgGgzyABQ2CpJ/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Th4c9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=ZzMzPDpkaWVoO2RkO2RpNUBpanVkM2U6ZjQ0aTMzODU8NEAvYjUvNTI1NjYxYDQwXzBiYSNeZzMycjQwZ29gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323909&l=20230225101751722CD185D9F30024BCFB&ply_type=3&policy=3&signature=4bea2d8591893a3e8fb73ddd5d46bca7&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 37,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7202957157430480129,
+    "stats": {
+      "digg_count": 6288,
+      "share_count": 8,
+      "comment_count": 38,
+      "play_count": 256600
+    },
+    "create_time": 1677069361000,
+    "desc": "T\u1eea NAY H\u00c3Y G\u1eccI NH\u00c3 PH\u01af\u01a0NG V\u00c0 H\u01af\u01a0NG GIANG L\u00c0 \"S\u1ebeP\" #NhaPhuong  #HuongGiang #Thingo #theanh28 #theanh28news #tiktoknews",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "tiktoknews" },
+      { "title": "nhaphuong" },
+      { "title": "thingo" },
+      { "title": "theanh28" },
+      { "title": "huonggiang" },
+      { "title": "theanh28news" }
+    ],
+    "video": {
+      "id": 7202957157430480129,
+      "height": 1024,
+      "width": 576,
+      "duration": 80,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1297971,
+      "cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/d2311fd908104a578edfa5292dc14c04_1677069363?x-expires=1677340800&x-signature=%2BQPUm477LTmj8VqAX8gVPZgIkfc%3D",
+      "origin_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/59664a47bf944c3897463504fd71eb34_1677069363?x-expires=1677340800&x-signature=vPehqFYccKLPsBipBUYN%2BB%2B6ndE%3D",
+      "dynamic_cover": "https://p16-sign-sg.tiktokcdn.com/obj/tos-alisg-p-0037/b001250f9da64075ade380163d5e5b1d_1677069364?x-expires=1677340800&x-signature=bfS0KeI7tmJo2HqcWQjg18moIpU%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/osfDEQMqj3B6zM02BJeDgvnTC9AVRNYUITbMQg/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2534&bt=1267&cs=0&ds=3&ft=4fUEKM3a8Zmo0hEOX64jVyDUPpWrKsdm&mime_type=video_mp4&qs=0&rc=NDg6aDxkaGlkPGRnZztmOUBpM2ZqeTc6Zm4zaTMzODgzNEA2YTQvYDJeXi0xNTA1NC5eYSNpbHJocjRva29gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341957&l=20230225101756722CD185D9F30024BE98&ply_type=2&policy=2&signature=fe089cbc957ef7507db4c92f6a786ac4&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037/osfDEQMqj3B6zM02BJeDgvnTC9AVRNYUITbMQg/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2534&bt=1267&cs=0&ds=3&ft=4fUEKM3a8Zmo0hEOX64jVyDUPpWrKsdm&mime_type=video_mp4&qs=0&rc=NDg6aDxkaGlkPGRnZztmOUBpM2ZqeTc6Zm4zaTMzODgzNEA2YTQvYDJeXi0xNTA1NC5eYSNpbHJocjRva29gLS1kLy1zcw%3D%3D&btag=80000&expire=1677341957&l=20230225101756722CD185D9F30024BE98&ply_type=2&policy=2&signature=fe089cbc957ef7507db4c92f6a786ac4&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7202958065971923714,
+      "title": "nh\u1ea1c n\u1ec1n - Theanh28 Entertainment",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-v-27dcd7/o0BUghJQJY2IjCDN2OsePwDliKbzUBfaQboBC4/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Th_c9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=OGU5ODg5ZWdkOWc3NmQ7NkBpM2R1cjw6ZmczaTMzODU8NEBgNjE1YTY2XjQxYzRgLy1iYSNqZGphcjQwbG9gLS1kMS1zcw%3D%3D&btag=80000&expire=1677323957&l=20230225101756722CD185D9F30024BE98&ply_type=3&policy=3&signature=0e431cf05e20954b65c499163daa22fe&tk=0",
+      "author_name": "Theanh28 Entertainment",
+      "duration": 80,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=%2B2nbE4%2Bq7pAw81T4ViUN1JwH5ls%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_720x720.jpeg?x-expires=1677492000&x-signature=zPgI5VaviHDuIYTzxSjn7O0LUDE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-aiso/65d3c6b1d1e205c75536ccf1f26d552d~c5_100x100.jpeg?x-expires=1677492000&x-signature=tRQXD7FbJRySez0Ft1roslFFgYk%3D"
+    },
+    "image_post": null,
+    "author": "theanh28entertainment",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  }
+]

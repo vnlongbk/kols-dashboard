@@ -51,7 +51,6 @@ export default function CardLineChart() {
         //   zeroLineBorderDashOffset: [2],
         // },
       },
-
       yAxes: {
         // ticks: {
         //   fontColor: "rgba(255,255,255,.7)",

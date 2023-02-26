@@ -1,0 +1,1521 @@
+[
+  {
+    "id": 7186945933987417371,
+    "stats": {
+      "digg_count": 223,
+      "share_count": 1,
+      "comment_count": 3,
+      "play_count": 1484
+    },
+    "create_time": 1673341257000,
+    "desc": "Thua ph\u00e1t l\u00e0 \u0111\u1ed5 l\u1ed7i ngay #metubnews #metub #affcup2022 #\u0111tvn ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "affcup2022" },
+      { "title": "\u0111tvn" },
+      { "title": "metub" },
+      { "title": "metubnews" }
+    ],
+    "video": {
+      "id": 7186945933987417371,
+      "height": 1024,
+      "width": 576,
+      "duration": 32,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 822653,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/osvAeBDSUgnMVMQskOiQ8i9DbkPBCjICKfEd33?x-expires=1677340800&x-signature=9Z%2BzActhf5Gzo4QBy97e%2F6Av5VA%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/91651a5441434f39a64c5b9aee5bcfde_1673341279?x-expires=1677340800&x-signature=5N%2BLoFU4B2ABksIsRSeeReYucus%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/c60286298a6443fcb811e4562df13886_1673341280?x-expires=1677340800&x-signature=N2In5yjewtAm%2BjuHpHeSnMGAPPg%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ocdONfIeMA5IAWfkAh54ep8P62vZhalHNJEL0R/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1606&bt=803&cs=0&ds=3&ft=4fUEKM3a8Zmo0bNOX64jVuFUPpWrKsdm&mime_type=video_mp4&qs=0&rc=OTg1ZWY6OThkOjtkNGc0NEBpM3B4dTw6ZjpsaDMzZjgzM0AyYDNjNS1eXzExM19fNl4uYSNjZGMucjRfZnJgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343009&l=202302251036164D9B8C0F98D199273269&ply_type=2&policy=2&signature=12e630a69dadd97bd43d0251c7078443&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ocdONfIeMA5IAWfkAh54ep8P62vZhalHNJEL0R/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1606&bt=803&cs=0&ds=3&ft=4fUEKM3a8Zmo0bNOX64jVuFUPpWrKsdm&mime_type=video_mp4&qs=0&rc=OTg1ZWY6OThkOjtkNGc0NEBpM3B4dTw6ZjpsaDMzZjgzM0AyYDNjNS1eXzExM19fNl4uYSNjZGMucjRfZnJgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343009&l=202302251036164D9B8C0F98D199273269&ply_type=2&policy=2&signature=12e630a69dadd97bd43d0251c7078443&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7186945981131279130,
+      "title": "nh\u1ea1c n\u1ec1n - Metub news",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/oQ8lVCtjvCM7DfUIDeiSGJKBPa9bUn7VUulQIn/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThOM9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=ZjY8NmhlaTk1ZWc8Zmk4Z0Bpanlxbmk6Zm9saDMzZjU8M0AvLWAvYy9hXmIxLTMvLzQ2YSNmb19fcjQwZnJgLS1kMWNzcw%3D%3D&btag=80000&expire=1677325009&l=202302251036164D9B8C0F98D199273269&ply_type=3&policy=3&signature=eb133f92bbc47a0945242fccff823591&tk=0",
+      "author_name": "Metub news",
+      "duration": 32,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=6%2F%2Ftav7udZCckhcFtwMfcxSY7uw%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_720x720.jpeg?x-expires=1677492000&x-signature=jBpFQsLHwtpJ0elt7MHkiBpmaHQ%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_100x100.jpeg?x-expires=1677492000&x-signature=j0D8gAFVb2oLHL53K9KMsNH3oqE%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7186601236282576155,
+    "stats": {
+      "digg_count": 130,
+      "share_count": 0,
+      "comment_count": 2,
+      "play_count": 2572
+    },
+    "create_time": 1673260998000,
+    "desc": "May qu\u00e1 c\u00f3 2 anh #metub #metubnews #tet2023 ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metubnews" },
+      { "title": "tet2023" },
+      { "title": "metub" }
+    ],
+    "video": {
+      "id": 7186601236282576155,
+      "height": 1024,
+      "width": 576,
+      "duration": 53,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 340577,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/ochrLdDC2vTRX7e8EP7e7dgEnbA7eGAfcEhH9I?x-expires=1677340800&x-signature=XRdmZEhpkWs2YgOYgajYQ5eHemQ%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/36f90da793224de0a6007e6afe4bdfd2_1673261002?x-expires=1677340800&x-signature=Q4GxkDnBWBQfLp5iJwR0w4pROG4%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/88ec83bec15b4e3087eabaa094d69846_1673261007?x-expires=1677340800&x-signature=GIHKtvEm0GGDKmQHOQGtPMkPTFY%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/owEogHtgr7sQHA323TCdt9ekffKPEE48eMGGX5/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=664&bt=332&cs=0&ds=3&ft=4fUEKM3a8Zmo0FNOX64jV~vejpWrKsdm&mime_type=video_mp4&qs=0&rc=PDc7OjQ8ZzQ7ZTU1NzQ2ZkBpanlmczg6Znl4aDMzZjgzM0A1LzZjMy5jNTExYTIvYi1jYSNkcHNocjRncnFgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343039&l=20230225103625541AA9B36F3B4B2679A6&ply_type=2&policy=2&signature=cfc021f443dd8094450cc92978ee51bf&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/owEogHtgr7sQHA323TCdt9ekffKPEE48eMGGX5/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=664&bt=332&cs=0&ds=3&ft=4fUEKM3a8Zmo0FNOX64jV~vejpWrKsdm&mime_type=video_mp4&qs=0&rc=PDc7OjQ8ZzQ7ZTU1NzQ2ZkBpanlmczg6Znl4aDMzZjgzM0A1LzZjMy5jNTExYTIvYi1jYSNkcHNocjRncnFgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343039&l=20230225103625541AA9B36F3B4B2679A6&ply_type=2&policy=2&signature=cfc021f443dd8094450cc92978ee51bf&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 6817169438580672514,
+      "title": "Horror, suspense, weirdness, ghost, UFO",
+      "play_url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/3849217200aa4c8884b134b494b9749b",
+      "author_name": "Zassh",
+      "duration": 135,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/5e91a7d2989048389d039b539214920f.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/5e91a7d2989048389d039b539214920f.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/5e91a7d2989048389d039b539214920f.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7186579531187162395,
+    "stats": {
+      "digg_count": 74,
+      "share_count": 0,
+      "comment_count": 0,
+      "play_count": 2873
+    },
+    "create_time": 1673255946000,
+    "desc": "Di\u1ec5n vi\u00ean D\u01b0\u01a1ng C\u1ea9m Lynh b\u1ecb ch\u1eb7n \u0111\u01b0\u1eddng \u0111\u00f2i ti\u1ec1n #metub #metubnews #trending #duongcamlynh ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metub" },
+      { "title": "trending" },
+      { "title": "duongcamlynh" },
+      { "title": "metubnews" }
+    ],
+    "video": {
+      "id": 7186579531187162395,
+      "height": 1024,
+      "width": 576,
+      "duration": 29,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1351633,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/o0zI7At2BqDejfKCioPBA3PZhuID3EjQVJ6lmi?x-expires=1677340800&x-signature=OGU3WFkEix0cI13wrdgC7Lm%2BLVs%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/52724e0c25e64548a2ee14841546f867_1673255965?x-expires=1677340800&x-signature=BO0uGHD86YrzwOUL%2FC6RUl3b45I%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/9e70b6036d3d4342911fc68bb901af79_1673255964?x-expires=1677340800&x-signature=aEwD1oTKothxqzZOCxT6e2qQF18%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ooAQDDthXQuCj3ZPIUB2VJAcEjIufqCzzPae37/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2638&bt=1319&cs=0&ds=3&ft=4fUEKM3a8Zmo08NOX64jVd_dPpWrKsdm&mime_type=video_mp4&qs=0&rc=ZGg1OTNoZzloM2c4ZDU5ZkBpajY7O2k6ZnV3aDMzZjgzM0A0LTNhMGM0NTIxYTNgLjI0YSNgZnExcjRvanFgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343019&l=20230225103629541AA9B36F3B4B267B40&ply_type=2&policy=2&signature=145d8530807f6f90a4abd8c9ce6882a7&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ooAQDDthXQuCj3ZPIUB2VJAcEjIufqCzzPae37/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2638&bt=1319&cs=0&ds=3&ft=4fUEKM3a8Zmo08NOX64jVd_dPpWrKsdm&mime_type=video_mp4&qs=0&rc=ZGg1OTNoZzloM2c4ZDU5ZkBpajY7O2k6ZnV3aDMzZjgzM0A0LTNhMGM0NTIxYTNgLjI0YSNgZnExcjRvanFgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343019&l=20230225103629541AA9B36F3B4B267B40&ply_type=2&policy=2&signature=145d8530807f6f90a4abd8c9ce6882a7&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 6881996450734032904,
+      "title": "Morsmordre\uff08\u83ab\u65af\u83ab\u591a\uff09(\u526a\u8f91\u7248)",
+      "play_url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/77e5b11e0e4247f493bd8d8af5e8ed01",
+      "author_name": "Crazy Donkey",
+      "duration": 86,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/0a81cfac88f342cca9d9710783dc5e4c.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/0a81cfac88f342cca9d9710783dc5e4c.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/0a81cfac88f342cca9d9710783dc5e4c.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7186571251517787419,
+    "stats": {
+      "digg_count": 240,
+      "share_count": 0,
+      "comment_count": 1,
+      "play_count": 1663
+    },
+    "create_time": 1673254016000,
+    "desc": "Qu\u00e1 tuy\u1ec7t v\u1eddi c\u00e1c b\u1ea1n tr\u1ebb #metub #metubnews #trending #baovemoitruong  ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "trending" },
+      { "title": "baovemoitruong" },
+      { "title": "metubnews" },
+      { "title": "metub" }
+    ],
+    "video": {
+      "id": 7186571251517787419,
+      "height": 1024,
+      "width": 576,
+      "duration": 37,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 2522887,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/ogKC5eeupInjJPDAQAXQbwD4j7Q9V5SDPtH91B?x-expires=1677340800&x-signature=%2Btn0VBZircdEHsX%2FMmD2oKsOKpE%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/3046216e9f9d48128929583d310009b8_1673254028?x-expires=1677340800&x-signature=%2FJX5TG5eOBnVu4ZSJj8Gzcqc7tg%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/492e6b2f1a6c4a7293602811b28c26bb_1673254028?x-expires=1677340800&x-signature=5zdJyiMMfKftIGTVIOHcBpdzduU%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oIhLUPPteJ0IJQCVE1uj8QfogRzzYWQDAcHl7B/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=4926&bt=2463&cs=0&ds=3&ft=4fUEKM3a8Zmo0gNOX64jVOHUPpWrKsdm&mime_type=video_mp4&qs=0&rc=OmczPDdlZDc1OTc0PGY2M0BpM244OTo6ZjV3aDMzZjgzM0AvYDIxXjJjNmMxL2M2NWFjYSNkbS5ycjRfNXFgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343033&l=2023022510363420D036E985413426F445&ply_type=2&policy=2&signature=3a0ac3b21bf39c2e62a4dc1e2c1b568b&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oIhLUPPteJ0IJQCVE1uj8QfogRzzYWQDAcHl7B/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=4926&bt=2463&cs=0&ds=3&ft=4fUEKM3a8Zmo0gNOX64jVOHUPpWrKsdm&mime_type=video_mp4&qs=0&rc=OmczPDdlZDc1OTc0PGY2M0BpM244OTo6ZjV3aDMzZjgzM0AvYDIxXjJjNmMxL2M2NWFjYSNkbS5ycjRfNXFgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343033&l=2023022510363420D036E985413426F445&ply_type=2&policy=2&signature=3a0ac3b21bf39c2e62a4dc1e2c1b568b&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 6769046027488987137,
+      "title": "FEEL THE GROOVE",
+      "play_url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/728c6089a88144adac2e7a4bfb8c9e05",
+      "author_name": "Queens Road, Fabian Graetz",
+      "duration": 112,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/b796c292b17f4eb1be24249341d514c2.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/b796c292b17f4eb1be24249341d514c2.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/b796c292b17f4eb1be24249341d514c2.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7185464683636215066,
+    "stats": {
+      "digg_count": 684,
+      "share_count": 4,
+      "comment_count": 1,
+      "play_count": 63400
+    },
+    "create_time": 1672996372000,
+    "desc": "Hai ch\u1ecb \u0111\u1ea1i g\u1eb7p l\u1ea1i nhau r\u1ed3i n\u00e8 #metub #metubnews #h\u00e0h\u1ed3 #m\u1ef9t\u00e2m ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metubnews" },
+      { "title": "h\u00e0h\u1ed3" },
+      { "title": "m\u1ef9t\u00e2m" },
+      { "title": "metub" }
+    ],
+    "video": {
+      "id": 7185464683636215066,
+      "height": 1024,
+      "width": 576,
+      "duration": 43,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1088085,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/o07ZNAzbS5mGhfr7HgifWAeEgEl3ECNI7oFehU?x-expires=1677340800&x-signature=rrKpwhqgl%2FawlxRKAUeaf5OSnsY%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/fe87e4f1b00d4b538f86e3b7b33b9567_1672996396?x-expires=1677340800&x-signature=sH1jbD3Q0o1g8vt4LT7IDV%2F9b0U%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/ca484fafd9334a4083b7b7a2f0c0f6c5_1672996396?x-expires=1677340800&x-signature=alJX8xuKOBkdzn164CfheE1zHJY%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/o4iGW9zNfFifbR4OlrYSAEUEgF7IUeQNgHeC2h/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2124&bt=1062&cs=0&ds=3&ft=4fUEKM3a8Zmo05NOX64jVcYUPpWrKsdm&mime_type=video_mp4&qs=0&rc=NDU3O2Q1NTVpOWhpZmU2ZkBpMzVnMzg6Zml4aDMzZjgzM0AtNTYuMDM0NmExMS0tXy5hYSM2NmtkcjRnX29gLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343043&l=202302251036387A415F4B1FABEE271D5D&ply_type=2&policy=2&signature=327b3c7d9eb8268e6c5b3193bb44d7d2&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/o4iGW9zNfFifbR4OlrYSAEUEgF7IUeQNgHeC2h/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2124&bt=1062&cs=0&ds=3&ft=4fUEKM3a8Zmo05NOX64jVcYUPpWrKsdm&mime_type=video_mp4&qs=0&rc=NDU3O2Q1NTVpOWhpZmU2ZkBpMzVnMzg6Zml4aDMzZjgzM0AtNTYuMDM0NmExMS0tXy5hYSM2NmtkcjRnX29gLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343043&l=202302251036387A415F4B1FABEE271D5D&ply_type=2&policy=2&signature=327b3c7d9eb8268e6c5b3193bb44d7d2&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7106033120494766874,
+      "title": "nh\u1ea1c n\u1ec1n - HUYEN LUONG \ud83c\uddfb\ud83c\uddf3",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/04096baeb90b4df5956cc072ec38fe06/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThwM9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=ZDw4ODw1ZWU7Zzc4NTxoO0BpajtnN2Q6Znd1ZDMzZjU8M0AwLzQyMzEvXzExLy4tYWExYSMzNW9gcjRfM2JgLS1kMWNzcw%3D%3D&btag=80000&expire=1677325021&l=202302251036387A415F4B1FABEE271D5D&ply_type=3&policy=3&signature=0a02ef0087cb647f77ff8054ad7eef61&tk=0",
+      "author_name": "HUYEN LUONG \ud83c\uddfb\ud83c\uddf3",
+      "duration": 21,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/9cf2a6418ba19237ce92e4aeffe45bc6~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=MRq3XhJ4PzTBLqpmimLka9t%2F9aA%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/9cf2a6418ba19237ce92e4aeffe45bc6~c5_720x720.jpeg?x-expires=1677492000&x-signature=IBLKrj4QQFeMxscwq6lpk2oUfwE%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/9cf2a6418ba19237ce92e4aeffe45bc6~c5_100x100.jpeg?x-expires=1677492000&x-signature=gitOgemg69RQUPOQz5EMfOZuDmg%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7185394497419840794,
+    "stats": {
+      "digg_count": 637,
+      "share_count": 0,
+      "comment_count": 1,
+      "play_count": 64700
+    },
+    "create_time": 1672980033000,
+    "desc": "Trao gi\u1ea3i L\u00e0n S\u00f3ng Xanh 2022 #metub #metubnews #lansongxanh ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metubnews" },
+      { "title": "metub" },
+      { "title": "lansongxanh" }
+    ],
+    "video": {
+      "id": 7185394497419840794,
+      "height": 1024,
+      "width": 576,
+      "duration": 61,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1920578,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oA6aPenoVCDB5QgV23DIBYBApCZQkTG6tjbg0e?x-expires=1677340800&x-signature=lkOE2S%2Bel4i45E1OJcF4M3%2BuF3Y%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/50111097f45447ce8ad3898777597019_1672980042?x-expires=1677340800&x-signature=gbLaAbHpmonsJlIAZ22hApnVCZs%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/f2eaa5a9d5454ec4bb0b26c8ac5b6f15_1672980043?x-expires=1677340800&x-signature=iTk6bzD9Zjw1LCn%2BHAiwSd%2FHuNI%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oE6tJzMIQOf9h3KtBoJ3AnxlpuKM2AmhhU9AQx/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=3750&bt=1875&cs=0&ds=3&ft=4fUEKM3a8Zmo0_NOX64jVqWIPpWrKsdm&mime_type=video_mp4&qs=0&rc=OjtnZzdlNWhlO2c4aDc8OEBpM3Ruajw6Zjh0aDMzZjgzM0A2LTAxMy4tXjUxNTMuXzUxYSM1bTRqcjRfYG9gLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343065&l=202302251036433DDF8E1C5A9D9726ABCB&ply_type=2&policy=2&signature=35b99295f18161f171c502ee4de0dfce&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oE6tJzMIQOf9h3KtBoJ3AnxlpuKM2AmhhU9AQx/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=3750&bt=1875&cs=0&ds=3&ft=4fUEKM3a8Zmo0_NOX64jVqWIPpWrKsdm&mime_type=video_mp4&qs=0&rc=OjtnZzdlNWhlO2c4aDc8OEBpM3Ruajw6Zjh0aDMzZjgzM0A2LTAxMy4tXjUxNTMuXzUxYSM1bTRqcjRfYG9gLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343065&l=202302251036433DDF8E1C5A9D9726ABCB&ply_type=2&policy=2&signature=35b99295f18161f171c502ee4de0dfce&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7172516290807760898,
+      "title": "V\u00f9ng Tr\u1eddi B\u00ecnh Y\u00ean - 25th L\u00e0n S\u00f3ng Xanh",
+      "play_url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oYHegYJiuCYQeFezLDOo6bAdqEarAobmFW5nDE",
+      "author_name": "Wren Evans & DTAP",
+      "duration": 60,
+      "original": false,
+      "album": "V\u00f9ng Tr\u1eddi B\u00ecnh Y\u00ean - 25th L\u00e0n S\u00f3ng Xanh",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/49c388c123d54161bc139db715647cce.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/49c388c123d54161bc139db715647cce.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/49c388c123d54161bc139db715647cce.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7185110033682713882,
+    "stats": {
+      "digg_count": 128,
+      "share_count": 0,
+      "comment_count": 0,
+      "play_count": 1882
+    },
+    "create_time": 1672913798000,
+    "desc": "Th\u00e1nh Tinh s\u1eafp tr\u1edf l\u1ea1i r\u1ed3i #metub #metubnews #trending #stephenchow ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "trending" },
+      { "title": "stephenchow" },
+      { "title": "metubnews" },
+      { "title": "metub" }
+    ],
+    "video": {
+      "id": 7185110033682713882,
+      "height": 1024,
+      "width": 576,
+      "duration": 43,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 901662,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/o8j5DehtQL8VAEe4jXI2AX87C4D2PqboBNBdnq?x-expires=1677340800&x-signature=ELq0X37VGNqCbBOTAcxkMa2Dnp8%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/47056984b2e040ddb39772153c24d729_1672913820?x-expires=1677340800&x-signature=i1%2BlyIqZMita48zdSvLrEJ%2FHOeA%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/900f9aa443bc4818a863dc9cf5b9d319_1672913819?x-expires=1677340800&x-signature=EiARelc2yBA9cMdk8D8KgCVC35k%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oQA0tAw2qPgf9Dojdt8bDBQuaRSUL6QeVJn8Cj/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1760&bt=880&cs=0&ds=3&ft=4fUEKM3a8Zmo0-bOX64jVOSUPpWrKsdm&mime_type=video_mp4&qs=0&rc=ODQzNDo2N2dkaDVpaWc7ZUBpamd1amk6ZnJkaDMzZjgzM0BjLTEvLmIzXjQxNWIzMjRhYSNiZDA0cjRvMm9gLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343054&l=20230225103650C598514C211EFC26BBAD&ply_type=2&policy=2&signature=06f4726e09dd3a6fc0b20fdab955583a&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oQA0tAw2qPgf9Dojdt8bDBQuaRSUL6QeVJn8Cj/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1760&bt=880&cs=0&ds=3&ft=4fUEKM3a8Zmo0-bOX64jVOSUPpWrKsdm&mime_type=video_mp4&qs=0&rc=ODQzNDo2N2dkaDVpaWc7ZUBpamd1amk6ZnJkaDMzZjgzM0BjLTEvLmIzXjQxNWIzMjRhYSNiZDA0cjRvMm9gLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343054&l=20230225103650C598514C211EFC26BBAD&ply_type=2&policy=2&signature=06f4726e09dd3a6fc0b20fdab955583a&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7118708335683701531,
+      "title": "nh\u1ea1c n\u1ec1n - Stephen Chow - Vi\u1ec7t Nam\u2728",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/bc9f7f9c04c8463d8cb43625bd77c06e/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThrO9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=aDtpZDhnaWU6MzM4N2k7M0Bpamo4dzY6ZmhlZTMzZjU8M0AxNTZhNC8uNjAxYDVhLTIwYSNmLmhxcjRnaTJgLS1kMWNzcw%3D%3D&btag=80000&expire=1677325029&l=20230225103650C598514C211EFC26BBAD&ply_type=3&policy=3&signature=0a6ac29fb60b3deca1ec5e1a3d5d7d93&tk=0",
+      "author_name": "Stephen Chow - Vi\u1ec7t Nam\u2728",
+      "duration": 18,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/46ddefa20b3784f6fe33cd1148c67046~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=R6ud16It6MMutZv8Rb%2B83e2jvZ8%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/46ddefa20b3784f6fe33cd1148c67046~c5_720x720.jpeg?x-expires=1677492000&x-signature=Hv8oQ2B8Y2HnZUpqkmV%2B6OSbyWs%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/46ddefa20b3784f6fe33cd1148c67046~c5_100x100.jpeg?x-expires=1677492000&x-signature=dCd%2FvvcAIy%2FSRdbuD0jerPkVT0Q%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7184281927254347035,
+    "stats": {
+      "digg_count": 314,
+      "share_count": 1,
+      "comment_count": 3,
+      "play_count": 4287
+    },
+    "create_time": 1672720993000,
+    "desc": "Ai \u0111\u00fang ai sai \u0111\u00e2y #metub #metubnews #trending ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metub" },
+      { "title": "trending" },
+      { "title": "metubnews" }
+    ],
+    "video": {
+      "id": 7184281927254347035,
+      "height": 1024,
+      "width": 576,
+      "duration": 41,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 914631,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oExKnAz4cAREdAfKPh5IdmBBR2BmozNCwhszh1?x-expires=1677340800&x-signature=7EGe1IyvVn7OFZAZM0hK7bvm6Mg%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/60b2d84bdfee452595f5ae7909e918ce_1672721019?x-expires=1677340800&x-signature=dkhqHUaYrJZUfHZAfpsQuL2e6uA%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/9db9856b5f474eb6b085e6754efd45ee_1672721020?x-expires=1677340800&x-signature=%2BqPXXUjVIDKPgKYmfrWQ3r7I%2BPc%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oE3hghxUzdRzZAmtocnFdNh9fBAKOQ2Pk154EI/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1786&bt=893&cs=0&ds=3&ft=4fUEKM3a8Zmo0dbOX64jVYL-PpWrKsdm&mime_type=video_mp4&qs=0&rc=NDk0N2VnOjg1ZGRlOGg8ZkBpamt1Omk6Zmh1aDMzZjgzM0AvNmA1Yl80NWMxXy5eL19gYSNuZmBwcjQwLm1gLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343058&l=202302251036566B7D16592EC0AA2617C0&ply_type=2&policy=2&signature=8056ed3a4e3f69e9907b6be2914d49a7&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oE3hghxUzdRzZAmtocnFdNh9fBAKOQ2Pk154EI/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1786&bt=893&cs=0&ds=3&ft=4fUEKM3a8Zmo0dbOX64jVYL-PpWrKsdm&mime_type=video_mp4&qs=0&rc=NDk0N2VnOjg1ZGRlOGg8ZkBpamt1Omk6Zmh1aDMzZjgzM0AvNmA1Yl80NWMxXy5eL19gYSNuZmBwcjQwLm1gLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343058&l=202302251036566B7D16592EC0AA2617C0&ply_type=2&policy=2&signature=8056ed3a4e3f69e9907b6be2914d49a7&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 6978850701308889090,
+      "title": "Review Phim - Paris Remix",
+      "play_url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/7a2f7888e47145b0a6ecd0352e5d5058",
+      "author_name": "T\u00e0i Muzik & TC Rmx",
+      "duration": 60,
+      "original": false,
+      "album": "Review Phim - Paris Remix",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/eae56c5e2e0e41fe831d4c5b07290da2.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/eae56c5e2e0e41fe831d4c5b07290da2.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/eae56c5e2e0e41fe831d4c5b07290da2.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7184264672588090651,
+    "stats": {
+      "digg_count": 708,
+      "share_count": 5,
+      "comment_count": 21,
+      "play_count": 82900
+    },
+    "create_time": 1672716976000,
+    "desc": "Hy v\u1ecdng ph\u00e9p m\u00e0u s\u1ebd x\u1ea3y ra #metub #trending #metubnews ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "trending" },
+      { "title": "metub" },
+      { "title": "metubnews" }
+    ],
+    "video": {
+      "id": 7184264672588090651,
+      "height": 1024,
+      "width": 576,
+      "duration": 68,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 635676,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/o0TGcnJEed86D09bCQNzePjqomVHsAIuDINBB8?x-expires=1677340800&x-signature=LWW1CZ8dRRuLbHfodUmQEYeZZkY%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/b91ff9f4357f47ee9cf09111d25753c3_1672716998?x-expires=1677340800&x-signature=NCX21Ofl4EovAnctvwHsQ7bRjZM%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/b5cd5548474d4dc48cfccb74b925a24f_1672716996?x-expires=1677340800&x-signature=hFXD6z%2BtORpugWNf4ECpzhrT1mE%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oE8JtKYjsAGHDT9gDNe6eVoBPIzboCNTCG8QQn/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1240&bt=620&cs=0&ds=3&ft=4fUEKM3a8Zmo0WbOX64jVTWdPpWrKsdm&mime_type=video_mp4&qs=0&rc=NDszNzQ3PGhoM2Q2Njc6NUBpMzx0dTY6Znl0aDMzZjgzM0AyLmAvYzYyNWIxMDMtYC8uYSNzNGw1cjRfMW1gLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343092&l=20230225103702F0F1C513DEF8B7272E37&ply_type=2&policy=2&signature=c97ec92c0c63d30347397ed99aeb1a6a&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oE8JtKYjsAGHDT9gDNe6eVoBPIzboCNTCG8QQn/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1240&bt=620&cs=0&ds=3&ft=4fUEKM3a8Zmo0WbOX64jVTWdPpWrKsdm&mime_type=video_mp4&qs=0&rc=NDszNzQ3PGhoM2Q2Njc6NUBpMzx0dTY6Znl0aDMzZjgzM0AyLmAvYzYyNWIxMDMtYC8uYSNzNGw1cjRfMW1gLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343092&l=20230225103702F0F1C513DEF8B7272E37&ply_type=2&policy=2&signature=c97ec92c0c63d30347397ed99aeb1a6a&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7184264751294253851,
+      "title": "nh\u1ea1c n\u1ec1n - Metub news",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/oEEiqhdvBACUcQsx7dnfhF02IAINqBHzoozoKG/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Th4O9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=NTxoNTdkMzhnOjxkOjlnaEBpanZ5NTM6Zmh0aDMzZjU8M0BgYF9iNWIxXy4xNi9gL2IyYSNxNTIwcjRnMm1gLS1kMWNzcw%3D%3D&btag=80000&expire=1677325092&l=20230225103702F0F1C513DEF8B7272E37&ply_type=3&policy=3&signature=093b9955e53cc7a86e1b7f5485b28a2a&tk=0",
+      "author_name": "Metub news",
+      "duration": 68,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=6%2F%2Ftav7udZCckhcFtwMfcxSY7uw%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_720x720.jpeg?x-expires=1677492000&x-signature=jBpFQsLHwtpJ0elt7MHkiBpmaHQ%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_100x100.jpeg?x-expires=1677492000&x-signature=j0D8gAFVb2oLHL53K9KMsNH3oqE%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7182843380739738907,
+    "stats": {
+      "digg_count": 173,
+      "share_count": 0,
+      "comment_count": 0,
+      "play_count": 1527
+    },
+    "create_time": 1672386055000,
+    "desc": "Ch\u1ec9 c\u00f2n nh\u1eefng k\u1ec9 ni\u1ec7m #metub #metubnews #trending #YG #ikon #bigbang ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "trending" },
+      { "title": "metubnews" },
+      { "title": "yg" },
+      { "title": "ikon" },
+      { "title": "bigbang" },
+      { "title": "metub" }
+    ],
+    "video": {
+      "id": 7182843380739738907,
+      "height": 1024,
+      "width": 576,
+      "duration": 32,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 924333,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oYeQEf3wH5A9ZXFggrbPeEe3SKlvrKHuJGA2Eg?x-expires=1677340800&x-signature=%2F599RTkbXeo5Sl1dmcutNxt5T28%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/223d16845ed6457ea956c78bf72c4a25_1672386074?x-expires=1677340800&x-signature=ZVDbv1P0iq2HdKpUCbsOuyjxZ5o%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/f343dd57356b4690b029ef8eaf144d44_1672386068?x-expires=1677340800&x-signature=bAkPyGIDGJnh5fD3RilwZ5sc6fY%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ogXIhVyohzl1Hntupsf6oqUhKAJ3QyxNBDAxk0/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1804&bt=902&cs=0&ds=3&ft=4fUEKM3a8Zmo0LbOX64jVnQ6PpWrKsdm&mime_type=video_mp4&qs=0&rc=ODw4N2k3Omg3PDdlNGQ1aEBpM2x4dDw6ZnI8aDMzZjgzM0BiYzAxYS0zXjAxNTU2Yi8xYSNqby1fcjRnXmtgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343062&l=2023022510370903897E6FB10FD026AAD3&ply_type=2&policy=2&signature=e1d065d4c07e3e050e27d9e32a82f384&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ogXIhVyohzl1Hntupsf6oqUhKAJ3QyxNBDAxk0/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1804&bt=902&cs=0&ds=3&ft=4fUEKM3a8Zmo0LbOX64jVnQ6PpWrKsdm&mime_type=video_mp4&qs=0&rc=ODw4N2k3Omg3PDdlNGQ1aEBpM2x4dDw6ZnI8aDMzZjgzM0BiYzAxYS0zXjAxNTU2Yi8xYSNqby1fcjRnXmtgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343062&l=2023022510370903897E6FB10FD026AAD3&ply_type=2&policy=2&signature=e1d065d4c07e3e050e27d9e32a82f384&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7082563854483326977,
+      "title": "\ubd04\uc5ec\ub984\uac00\uc744\uaca8\uc6b8 (Still Life)",
+      "play_url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/c2ef1c5c2f454521aae0b271869c4f8b",
+      "author_name": "BIGBANG",
+      "duration": 60,
+      "original": false,
+      "album": "\ubd04\uc5ec\ub984\uac00\uc744\uaca8\uc6b8 (Still Life)",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/95cf21838b0e4ef196f7388479078db6.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/95cf21838b0e4ef196f7388479078db6.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/95cf21838b0e4ef196f7388479078db6.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7182836387836742939,
+    "stats": {
+      "digg_count": 85,
+      "share_count": 0,
+      "comment_count": 2,
+      "play_count": 961
+    },
+    "create_time": 1672384428000,
+    "desc": "Mong \u00f4ng y\u00ean ngh\u1ec9 #metub #metubnews #trending ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metubnews" },
+      { "title": "metub" },
+      { "title": "trending" }
+    ],
+    "video": {
+      "id": 7182836387836742939,
+      "height": 1024,
+      "width": 576,
+      "duration": 120,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 624414,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/64ae1650d0dc48af9d35f2119ad0c728_1672384462?x-expires=1677340800&x-signature=ezlf08oe3BXhEMIk3HiHEIhtcc8%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/694882f301fb4e72a5f2838054fdc1ae_1672384511?x-expires=1677340800&x-signature=OdwJLdp29g8pr8zlBiQgxS9B9Y4%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/44d611bbd4bb4e11a963b08003a8ebc9_1672384512?x-expires=1677340800&x-signature=9HpwWInutqSHNVixx2MbMSPgXGY%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oAreQe2oAnAeHoRW9R80GrHgdEIgEEWXofb6dD/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1218&bt=609&cs=0&ds=3&ft=4fUEKM3a8Zmo0mbOX64jVGW9PpWrKsdm&mime_type=video_mp4&qs=0&rc=aTVnaTczZGg4MzM8ZTY2OkBpajV4NWc6ZjM7aDMzZjgzM0A0MWBjNWIzNV4xMGFfNTY1YSNhNWUycjQwc2tgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343157&l=202302251037156B7D16592EC0AA26207E&ply_type=2&policy=2&signature=d6f65ed816262a6e30b4d2fdc8cb0e7a&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oAreQe2oAnAeHoRW9R80GrHgdEIgEEWXofb6dD/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1218&bt=609&cs=0&ds=3&ft=4fUEKM3a8Zmo0mbOX64jVGW9PpWrKsdm&mime_type=video_mp4&qs=0&rc=aTVnaTczZGg4MzM8ZTY2OkBpajV4NWc6ZjM7aDMzZjgzM0A0MWBjNWIzNV4xMGFfNTY1YSNhNWUycjQwc2tgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343157&l=202302251037156B7D16592EC0AA26207E&ply_type=2&policy=2&signature=d6f65ed816262a6e30b4d2fdc8cb0e7a&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7182836503826271003,
+      "title": "nh\u1ea1c n\u1ec1n - Metub news",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/oQjojDUNfQz6QKCaIL6UBUYulPf8JrChsBlJt1/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Th7O9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=OGY8NTo1NTxpNzhlNDxmNkBpajVlcGc6Zmc7aDMzZjU8M0BgMTUvMjRgNWIxLjFhLjMvYSNmaC4xcjRfc2tgLS1kMWNzcw%3D%3D&btag=80000&expire=1677325157&l=202302251037156B7D16592EC0AA26207E&ply_type=3&policy=3&signature=7cee409607b47b2557f360021532c6eb&tk=0",
+      "author_name": "Metub news",
+      "duration": 120,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=6%2F%2Ftav7udZCckhcFtwMfcxSY7uw%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_720x720.jpeg?x-expires=1677492000&x-signature=jBpFQsLHwtpJ0elt7MHkiBpmaHQ%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_100x100.jpeg?x-expires=1677492000&x-signature=j0D8gAFVb2oLHL53K9KMsNH3oqE%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7182426911417699611,
+    "stats": {
+      "digg_count": 372,
+      "share_count": 26,
+      "comment_count": 7,
+      "play_count": 45900
+    },
+    "create_time": 1672289090000,
+    "desc": "Cu\u1ed1i n\u0103m r\u1ed3i, khen s\u1ebfp t\u00ed th\u00f4i n\u00e0o #metub #metubnews #trending ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metubnews" },
+      { "title": "trending" },
+      { "title": "metub" }
+    ],
+    "video": {
+      "id": 7182426911417699611,
+      "height": 1024,
+      "width": 576,
+      "duration": 33,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1355740,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oI74Cb69nDtj8kiCYaDNRfIorBPQMeGQ5NVmsA?x-expires=1677340800&x-signature=jqwo8m%2BL02UZSiPa6JaFZMpFhh4%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/2d35112228084b5a918ddf438aaea814_1672289116?x-expires=1677340800&x-signature=%2B9AREwX9OEwY0hyXYdwz9Xrj31Q%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/d77db81382294e819e707fa3ff142bdb_1672289117?x-expires=1677340800&x-signature=V0lU2GUCz0XThaOllU8oWjhUo%2B8%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oIjrF56NowReBGMCQYKaHDA1gV8stPb9fQinsD/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2646&bt=1323&cs=0&ds=3&ft=4fUEKM3a8Zmo0SbOX64jV~vejpWrKsdm&mime_type=video_mp4&qs=0&rc=OmU4ODRlOzg7MzlkNmdnZEBpamg1bWg6ZjlraDMzZjgzM0AzYzMuY2IxXzUxMzJiNmNiYSNrMG82cjQwampgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343077&l=20230225103723B9EF404EAC436426C2ED&ply_type=2&policy=2&signature=28f924cc6662605767b3d1a8e0bc76b3&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oIjrF56NowReBGMCQYKaHDA1gV8stPb9fQinsD/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2646&bt=1323&cs=0&ds=3&ft=4fUEKM3a8Zmo0SbOX64jV~vejpWrKsdm&mime_type=video_mp4&qs=0&rc=OmU4ODRlOzg7MzlkNmdnZEBpamg1bWg6ZjlraDMzZjgzM0AzYzMuY2IxXzUxMzJiNmNiYSNrMG82cjQwampgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343077&l=20230225103723B9EF404EAC436426C2ED&ply_type=2&policy=2&signature=28f924cc6662605767b3d1a8e0bc76b3&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7182426962626202395,
+      "title": "nh\u1ea1c n\u1ec1n - Metub news",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/oQoUzFerLQnNLIQCtKuQbIDJjaoeJalDPRpRNB/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThUO9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=ZDs3aTM5ODc2Nzo7O2dkNUBpajhlPDc6ZmxraDMzZjU8M0BeY2NfNjE2XzQxNDA0LzAwYSNmZy8vcjRvampgLS1kMWNzcw%3D%3D&btag=80000&expire=1677325077&l=20230225103723B9EF404EAC436426C2ED&ply_type=3&policy=3&signature=bcb7aeae0885d819b61b5f38d1e8c2ac&tk=0",
+      "author_name": "Metub news",
+      "duration": 33,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=6%2F%2Ftav7udZCckhcFtwMfcxSY7uw%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_720x720.jpeg?x-expires=1677492000&x-signature=jBpFQsLHwtpJ0elt7MHkiBpmaHQ%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_100x100.jpeg?x-expires=1677492000&x-signature=j0D8gAFVb2oLHL53K9KMsNH3oqE%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7182135992592174362,
+    "stats": {
+      "digg_count": 721,
+      "share_count": 5,
+      "comment_count": 12,
+      "play_count": 65400
+    },
+    "create_time": 1672221353000,
+    "desc": "Ch\u1ecb cover h\u01a1i \u1ed1 d\u1ec1 qu\u00e1 #metub #metubnews #trending ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metub" },
+      { "title": "metubnews" },
+      { "title": "trending" }
+    ],
+    "video": {
+      "id": 7182135992592174362,
+      "height": 1024,
+      "width": 576,
+      "duration": 40,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1522487,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oUqg1z1bIAnHGcBBMhEhzulEgEaKojf1xsAdZN?x-expires=1677340800&x-signature=6niEpTCetsb2d7pAo0%2FXdV4qqH0%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/4185d449218b488594de78f868adbb94_1672221369?x-expires=1677340800&x-signature=%2BnP051pwtZBbolGdama6ssUV31c%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/e01907042f914cafb6754b1541d58d1d_1672221369?x-expires=1677340800&x-signature=QcWlDE6CqoIO3ulrXy8xVwUMSL0%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/ocl1zNMHBhonUsEcGQxofAdsI8KgAWuZGhVH1d/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2972&bt=1486&cs=0&ds=3&ft=4fUEKM3a8Zmo0ZbOX64jVTP6PpWrKsdm&mime_type=video_mp4&qs=0&rc=Mzk2NmlpaDhnZTY8Ojs4ZUBpanZwOmY6ZjY0aDMzZjgzM0AtYl5hYTBfNmExMjBiMy0yYSNgcGIwcjRnMmpgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343092&l=20230225103730541AA9B36F3B4B2692E1&ply_type=2&policy=2&signature=d9bf79810b2f58329a5bdb27b6861b1c&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/ocl1zNMHBhonUsEcGQxofAdsI8KgAWuZGhVH1d/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2972&bt=1486&cs=0&ds=3&ft=4fUEKM3a8Zmo0ZbOX64jVTP6PpWrKsdm&mime_type=video_mp4&qs=0&rc=Mzk2NmlpaDhnZTY8Ojs4ZUBpanZwOmY6ZjY0aDMzZjgzM0AtYl5hYTBfNmExMjBiMy0yYSNgcGIwcjRnMmpgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343092&l=20230225103730541AA9B36F3B4B2692E1&ply_type=2&policy=2&signature=d9bf79810b2f58329a5bdb27b6861b1c&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7182136112490908443,
+      "title": "nh\u1ea1c n\u1ec1n - Metub news",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/oM2Uow1ItkgEhkxRNfggKAh5szHsNXBdEJAl2n/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThzO9.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=NDU8NTNpO2Y3Z2k2NjtkNkBpandtbTo6Zmo0aDMzZjU8M0BeLS5fYy5gNi0xMDY0Yy01YSM1YGBqcjQwMmpgLS1kMWNzcw%3D%3D&btag=80000&expire=1677325092&l=20230225103730541AA9B36F3B4B2692E1&ply_type=3&policy=3&signature=5e9e66b16651f30157984570ac16979a&tk=0",
+      "author_name": "Metub news",
+      "duration": 40,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=6%2F%2Ftav7udZCckhcFtwMfcxSY7uw%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_720x720.jpeg?x-expires=1677492000&x-signature=jBpFQsLHwtpJ0elt7MHkiBpmaHQ%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_100x100.jpeg?x-expires=1677492000&x-signature=j0D8gAFVb2oLHL53K9KMsNH3oqE%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7182040225940540699,
+    "stats": {
+      "digg_count": 99,
+      "share_count": 3,
+      "comment_count": 2,
+      "play_count": 12000
+    },
+    "create_time": 1672199055000,
+    "desc": "Qu\u00e1 \u0111\u00e3 b\u00e0 con nhanh ch\u00e2n check in n\u00e0o #metub #metubnews #trending #sapa ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "trending" },
+      { "title": "sapa" },
+      { "title": "metubnews" },
+      { "title": "metub" }
+    ],
+    "video": {
+      "id": 7182040225940540699,
+      "height": 1024,
+      "width": 576,
+      "duration": 33,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 900980,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oIB6PL8tKxhDynhbAUzrZ2fdA4a1oAPEG7uIIB?x-expires=1677340800&x-signature=LSrJSUfaGZKijripcxmbBmPnK2k%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/b057c6e89e704a2f9fceba74c3d84fb3_1672199074?x-expires=1677340800&x-signature=UFdOiFOtSDsGWyY7rSysTSZupP0%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/1ba8f3e4a88d465b9339a5bdfd654b07_1672199059?x-expires=1677340800&x-signature=LNwhvobIPj8A1oWgNxKGjIGI6O0%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oY6B8tdrZowKzWDUQUPhALAnuh1fIH2Px62GlO/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1758&bt=879&cs=0&ds=3&ft=4fUEKM3a8Zmo0ebOX64jVPiUPpWrKsdm&mime_type=video_mp4&qs=0&rc=Zmk4ZWRpOzVpaDczOmgzZkBpM3RrNmk6Zjh1aDMzZjgzM0BjLjMxXzVgXzExNS5jMy40YSNyZ24wcjRvamlgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343091&l=20230225103737EBD14EEF607A7626E3DF&ply_type=2&policy=2&signature=c2ec507cf047767c2dd1bcb6f8f3ed79&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oY6B8tdrZowKzWDUQUPhALAnuh1fIH2Px62GlO/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1758&bt=879&cs=0&ds=3&ft=4fUEKM3a8Zmo0ebOX64jVPiUPpWrKsdm&mime_type=video_mp4&qs=0&rc=Zmk4ZWRpOzVpaDczOmgzZkBpM3RrNmk6Zjh1aDMzZjgzM0BjLjMxXzVgXzExNS5jMy40YSNyZ24wcjRvamlgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343091&l=20230225103737EBD14EEF607A7626E3DF&ply_type=2&policy=2&signature=c2ec507cf047767c2dd1bcb6f8f3ed79&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 6876467879630342152,
+      "title": "EA7\u98ce\u5439\u6563\u4e86\u6545\u4e8b",
+      "play_url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/c5dc27b971c84255857bc73ebfa4aa38",
+      "author_name": "\u9648\u5b89\u6392",
+      "duration": 140,
+      "original": false,
+      "album": "EA7",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/151834a3b15140a88651935f3949fee8.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/151834a3b15140a88651935f3949fee8.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/151834a3b15140a88651935f3949fee8.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7181776107031612699,
+    "stats": {
+      "digg_count": 33,
+      "share_count": 1,
+      "comment_count": 0,
+      "play_count": 1518
+    },
+    "create_time": 1672137560000,
+    "desc": "H\u00e0ng gi\u1ea3 h\u00e0ng th\u1eadt l\u1eabn l\u1ed9n #metub #metubnews #trending ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "trending" },
+      { "title": "metub" },
+      { "title": "metubnews" }
+    ],
+    "video": {
+      "id": 7181776107031612699,
+      "height": 1024,
+      "width": 576,
+      "duration": 117,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 642448,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/f409fe74b3984e38a436f7c7f9f557aa_1672137622?x-expires=1677340800&x-signature=sNvYOTPMeLhXGAaMkaRTE40gUKk%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/41e0558d227c4944ad609571d430c8ad_1672137622?x-expires=1677340800&x-signature=O3vqEcKHXaF54ikqQL4V2sY%2FWrs%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/fc771673fd904dcb89b366424ec613b1_1672137623?x-expires=1677340800&x-signature=2h77ggsy2kKaGQPdB1wH%2BF0oChw%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oYsNEAb5Pqog6lV9CZQrQheDMVR19jVxneDsBo/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1254&bt=627&cs=0&ds=3&ft=4fUEKM3a8Zmo0.MOX64jVXb6PpWrKsdm&mime_type=video_mp4&qs=0&rc=NTtlODY0ZTQ7OWc1Ojk2M0BpanRxaTU6ZjlmaDMzZjgzM0A0YGFfYC4vNmIxNV4tXjY1YSNyLjMwcjRfamlgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343193&l=202302251037544011D16B262D79272D5D&ply_type=2&policy=2&signature=77d97d09d131f4dd64bee36d9e03e0ac&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oYsNEAb5Pqog6lV9CZQrQheDMVR19jVxneDsBo/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1254&bt=627&cs=0&ds=3&ft=4fUEKM3a8Zmo0.MOX64jVXb6PpWrKsdm&mime_type=video_mp4&qs=0&rc=NTtlODY0ZTQ7OWc1Ojk2M0BpanRxaTU6ZjlmaDMzZjgzM0A0YGFfYC4vNmIxNV4tXjY1YSNyLjMwcjRfamlgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343193&l=202302251037544011D16B262D79272D5D&ply_type=2&policy=2&signature=77d97d09d131f4dd64bee36d9e03e0ac&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7181776401849584410,
+      "title": "nh\u1ea1c n\u1ec1n - Metub news",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/oEIyqx1KNAWBQoEOALUBmfhhXyzsR1QdcNkQ6n/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Thj39.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=OzZpOzdlO2ZlZ2c0ZjtlOkBpM2tpNjM6ZjtmaDMzZjU8M0BfMWAvNjMvXmIxNWJiXy4wYSNmXmVicjQwa2lgLS1kMWNzcw%3D%3D&btag=80000&expire=1677325193&l=202302251037544011D16B262D79272D5D&ply_type=3&policy=3&signature=ba9d08b0fd8744bc889537629bacc53d&tk=0",
+      "author_name": "Metub news",
+      "duration": 117,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=6%2F%2Ftav7udZCckhcFtwMfcxSY7uw%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_720x720.jpeg?x-expires=1677492000&x-signature=jBpFQsLHwtpJ0elt7MHkiBpmaHQ%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_100x100.jpeg?x-expires=1677492000&x-signature=j0D8gAFVb2oLHL53K9KMsNH3oqE%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7181760112183315738,
+    "stats": {
+      "digg_count": 141,
+      "share_count": 0,
+      "comment_count": 2,
+      "play_count": 1228
+    },
+    "create_time": 1672133838000,
+    "desc": "\u0110\u00e1ng y\u00eau qu\u00e1 #metub #metubnews #trending #christmas ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metubnews" },
+      { "title": "metub" },
+      { "title": "trending" },
+      { "title": "christmas" }
+    ],
+    "video": {
+      "id": 7181760112183315738,
+      "height": 1024,
+      "width": 576,
+      "duration": 61,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 352079,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oIGvMBQsxihTPaFqALfho4zcB1AKV0vIEZNlnV?x-expires=1677340800&x-signature=p9doqg4SMOphkSbboIRhgCvL6us%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/51182f141e8d49a1b9b6d0aabe0268c9_1672133856?x-expires=1677340800&x-signature=swg67%2F2hcXZHWJOtxdhpKDvQAj8%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/b6a9f895b5b04804b50fe6c8dc81823d_1672133859?x-expires=1677340800&x-signature=zzznm3JB2VRRCLIhL%2FvzuvjkzKA%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oQVxAq7ChcOfl6vA7oAI1sZjK4GFzhQLBN7Uan/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=686&bt=343&cs=0&ds=3&ft=4fUEKM3a8Zmo0WMOX64jVU0UPpWrKsdm&mime_type=video_mp4&qs=0&rc=NTo7OWY5M2dpNDs4ZTw1aEBpM3Rwa2U6ZmhlaDMzZjgzM0AyMTEwYy4xNTYxLy02XjAxYSNqXmRgcjQwbGlgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343149&l=202302251038076AB21D5597E480268FFC&ply_type=2&policy=2&signature=8c922bc01d5893b47a74db31e266f001&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oQVxAq7ChcOfl6vA7oAI1sZjK4GFzhQLBN7Uan/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=686&bt=343&cs=0&ds=3&ft=4fUEKM3a8Zmo0WMOX64jVU0UPpWrKsdm&mime_type=video_mp4&qs=0&rc=NTo7OWY5M2dpNDs4ZTw1aEBpM3Rwa2U6ZmhlaDMzZjgzM0AyMTEwYy4xNTYxLy02XjAxYSNqXmRgcjQwbGlgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343149&l=202302251038076AB21D5597E480268FFC&ply_type=2&policy=2&signature=8c922bc01d5893b47a74db31e266f001&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 6817429116187314177,
+      "title": "Animal baby",
+      "play_url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/d80200bc80934ca6a7ab71ff9ff71b9d",
+      "author_name": "\u4e0a\u91ce\u71ff",
+      "duration": 86,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/e6b8f7def46b46ed971ba784eaef6a28.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/e6b8f7def46b46ed971ba784eaef6a28.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/e6b8f7def46b46ed971ba784eaef6a28.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7181342068243975451,
+    "stats": {
+      "digg_count": 158,
+      "share_count": 0,
+      "comment_count": 1,
+      "play_count": 1720
+    },
+    "create_time": 1672036502000,
+    "desc": "M\u1eb7t s\u00e2n nh\u01b0 n\u00e0y th\u00ec ch\u1ea5n th\u01b0\u01a1ng m\u1ea5t #metub #metubnews #trending #affcup2022 ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metubnews" },
+      { "title": "metub" },
+      { "title": "trending" },
+      { "title": "affcup2022" }
+    ],
+    "video": {
+      "id": 7181342068243975451,
+      "height": 1024,
+      "width": 576,
+      "duration": 27,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1087907,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/osTHXGeWzA6dBrvRgEeTUQenEbyoeJnDGEEqpI?x-expires=1677340800&x-signature=Y8VDLe%2BuWr7P7A6YImXOHmhJZmg%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/3f2398fb954c4a45b4f4f1b46690ac0d_1672036513?x-expires=1677340800&x-signature=4tbabahte1ER3otPpgGHEHvlcDs%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/7f29dd84ff924aafba8a80033b7b8d9e_1672036515?x-expires=1677340800&x-signature=7kE8i%2FcL7GAYQiBSV7M4Eu0hvvU%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oIUATEDnKInDrYgoeTneevpGbdeQqHUEQWIEyC/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2124&bt=1062&cs=0&ds=3&ft=4fUEKM3a8Zmo0LMOX64jVBZUPpWrKsdm&mime_type=video_mp4&qs=0&rc=ZjdmOTs5ZzxkZDo1OGQ4OkBpajtneGg6ZjRtaDMzZjgzM0AyM2IzMmM1Xi4xMy1eLzAvYSM2cTZocjQwc2hgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343121&l=2023022510381305ECF3619F405F276CBC&ply_type=2&policy=2&signature=c2d97162dde14a61d6a4060742479147&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oIUATEDnKInDrYgoeTneevpGbdeQqHUEQWIEyC/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2124&bt=1062&cs=0&ds=3&ft=4fUEKM3a8Zmo0LMOX64jVBZUPpWrKsdm&mime_type=video_mp4&qs=0&rc=ZjdmOTs5ZzxkZDo1OGQ4OkBpajtneGg6ZjRtaDMzZjgzM0AyM2IzMmM1Xi4xMy1eLzAvYSM2cTZocjQwc2hgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343121&l=2023022510381305ECF3619F405F276CBC&ply_type=2&policy=2&signature=c2d97162dde14a61d6a4060742479147&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7081681956877912065,
+      "title": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
+      "play_url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/1abbdde7ebee475886fab19365b8795e",
+      "author_name": "Trinidad Cardona & Davido & Aisha",
+      "duration": 60,
+      "original": false,
+      "album": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/7e025e09efcb41ae84478045c4468d8f.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/7e025e09efcb41ae84478045c4468d8f.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7e025e09efcb41ae84478045c4468d8f.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7181302517983202586,
+    "stats": {
+      "digg_count": 177,
+      "share_count": 1,
+      "comment_count": 0,
+      "play_count": 20000
+    },
+    "create_time": 1672027296000,
+    "desc": "Song Joong Ki x\u00e1c nh\u1eadn h\u1eb9n h\u00f2 v\u1edbi b\u1ea1n g\u00e1i m\u1edbi #metub #metubnews #songjoongki #trending ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metubnews" },
+      { "title": "metub" },
+      { "title": "songjoongki" },
+      { "title": "trending" }
+    ],
+    "video": {
+      "id": 7181302517983202586,
+      "height": 1024,
+      "width": 576,
+      "duration": 56,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1192513,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oIexTRwjqAfBDyQCDAuRlVOBP7SbQXl1CsOQIn?x-expires=1677340800&x-signature=BSlKTpGuKfFehod%2FhUw2M6wj%2BLU%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/ed9859ee89b6470c8165b52244cf0cad_1672027316?x-expires=1677340800&x-signature=yaWkuDeUDcqXULsWT4gHKmsImGQ%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/1a16858de007419689bd68ddd0d70955_1672027317?x-expires=1677340800&x-signature=bWI%2FqOj1cXIi1yqTyR%2F8jMjUOIo%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oIMBQOeTGuPQTycpDgnAoxqAVsjQHBeCQRDlbA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2328&bt=1164&cs=0&ds=3&ft=4fUEKM3a8Zmo0mMOX64jV~vejpWrKsdm&mime_type=video_mp4&qs=0&rc=OGhkOGg5N2czNTw4Zjc2M0BpanNkODM6Zm5raDMzZjgzM0AzXmIzMjReXy8xYGIvNF5eYSMwLm5fcjQwbGhgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343157&l=20230225103820935B8864DC6FE52793FF&ply_type=2&policy=2&signature=b25b735a21cd449386a46d45de6065ba&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oIMBQOeTGuPQTycpDgnAoxqAVsjQHBeCQRDlbA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2328&bt=1164&cs=0&ds=3&ft=4fUEKM3a8Zmo0mMOX64jV~vejpWrKsdm&mime_type=video_mp4&qs=0&rc=OGhkOGg5N2czNTw4Zjc2M0BpanNkODM6Zm5raDMzZjgzM0AzXmIzMjReXy8xYGIvNF5eYSMwLm5fcjQwbGhgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343157&l=20230225103820935B8864DC6FE52793FF&ply_type=2&policy=2&signature=b25b735a21cd449386a46d45de6065ba&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 6943994525292218370,
+      "title": "Talk Love",
+      "play_url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/e21481aab2874366b3c3db92466a0863",
+      "author_name": "\ucf00\uc774\uc70c",
+      "duration": 60,
+      "original": false,
+      "album": "\ud0dc\uc591\uc758 \ud6c4\uc608 OST Part.6(\u592a\u9633\u7684\u540e\u88d4 Ost Part 6)",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/687a40d7feee451aa10113c8147d4785.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/687a40d7feee451aa10113c8147d4785.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/687a40d7feee451aa10113c8147d4785.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7180574566119460123,
+    "stats": {
+      "digg_count": 95,
+      "share_count": 0,
+      "comment_count": 0,
+      "play_count": 1243
+    },
+    "create_time": 1671857806000,
+    "desc": "Visual n\u00e0y \u0111\u01b0\u1ee3c 10 \u0111i\u1ec3m ch\u01b0a \u1ea1 #metub #metubnews #trending #missworldvietnam ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "missworldvietnam" },
+      { "title": "metubnews" },
+      { "title": "metub" },
+      { "title": "trending" }
+    ],
+    "video": {
+      "id": 7180574566119460123,
+      "height": 1024,
+      "width": 576,
+      "duration": 39,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1124774,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/o0tbm1gAhCAhLdovNjzAnxIo0EFIuhKv0f4BWU?x-expires=1677340800&x-signature=%2FPsLgsgZHtZkCsD7VPhw6rUd9SQ%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/82f5444fe5dc4585941769d220a8a595_1671857817?x-expires=1677340800&x-signature=F19uufuUZn616Lgw%2Be9IejQG11A%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/20e9df845fe54310857b8bf2177fd150_1671857818?x-expires=1677340800&x-signature=QzA58U2iXA%2FQnIhSj8ntePyxyZQ%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ocRhqAUgjeDcvDtmB28DQRnBCpAVKbfRh9b0Po/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2196&bt=1098&cs=0&ds=3&ft=4fUEKM3a8Zmo0UMOX64jVUH-PpWrKsdm&mime_type=video_mp4&qs=0&rc=M2hoNTY1O2g4ZTw4NGZlOEBpMzNnb2c6Zmo7aDMzZjgzM0A0L2E1M2ExXi0xMC4tLjA0YSNwbjBrcjRfNWdgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343156&l=202302251038368425A044ADEE9F27107B&ply_type=2&policy=2&signature=1ce84e56bd677e78cefbd536e0d39336&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ocRhqAUgjeDcvDtmB28DQRnBCpAVKbfRh9b0Po/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2196&bt=1098&cs=0&ds=3&ft=4fUEKM3a8Zmo0UMOX64jVUH-PpWrKsdm&mime_type=video_mp4&qs=0&rc=M2hoNTY1O2g4ZTw4NGZlOEBpMzNnb2c6Zmo7aDMzZjgzM0A0L2E1M2ExXi0xMC4tLjA0YSNwbjBrcjRfNWdgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343156&l=202302251038368425A044ADEE9F27107B&ply_type=2&policy=2&signature=1ce84e56bd677e78cefbd536e0d39336&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7143926543620836098,
+      "title": "T\u1ea1i Sao L\u1ea1i Xinh Nh\u01b0 Th\u1ebf",
+      "play_url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/90d78836eeec47718cff60e019d668ba",
+      "author_name": "Ch\u00fa Gi\u00e1n Nh\u1ecf",
+      "duration": 50,
+      "original": false,
+      "album": "T\u1ea1i Sao L\u1ea1i Xinh Nh\u01b0 Th\u1ebf",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/a4d998c506574e6ca611fd7d26bbdd86.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/a4d998c506574e6ca611fd7d26bbdd86.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/a4d998c506574e6ca611fd7d26bbdd86.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7180243590109498650,
+    "stats": {
+      "digg_count": 207,
+      "share_count": 0,
+      "comment_count": 4,
+      "play_count": 2359
+    },
+    "create_time": 1671780745000,
+    "desc": "L\u1ecbch thi \u0111\u1ea5u c\u0103ng c\u1ef1c #metub #metubnews #trending #affcup2022 ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "trending" },
+      { "title": "affcup2022" },
+      { "title": "metub" },
+      { "title": "metubnews" }
+    ],
+    "video": {
+      "id": 7180243590109498650,
+      "height": 1024,
+      "width": 576,
+      "duration": 42,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 942663,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oYqeDbqonDljeAGCGKDsVBIxpBPQLQXQcGVklA?x-expires=1677340800&x-signature=hcXVc1YqOvShTrOK2ZKAtJwt9iA%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/70cc82a7047a4cedb3062abc67f4924e_1671780760?x-expires=1677340800&x-signature=hBqTa7XeepKDDr3NbHQH1YJh6GI%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/64cd44c830da4adcb0f7aecac4ce4b97_1671780767?x-expires=1677340800&x-signature=g9YbOroUrzM8mzFnyDTkiBXBH84%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oMOo01WjAFyBqOnxK9IAhLDWahU1IQflvaE0Nz/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1840&bt=920&cs=0&ds=3&ft=4fUEKM3a8Zmo0gMOX64jVbdUPpWrKsdm&mime_type=video_mp4&qs=0&rc=Mzg5NmUzZzNkMzZpZWhkPEBpM29md2g6ZmtvaDMzZjgzM0BhXjAzLjFgNi8xNl9hXi9hYSMxay0vcjRnZmZgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343166&l=20230225103843357CF3B83FEF9426CD27&ply_type=2&policy=2&signature=eb906f9f30c340d2df32bbb7471b51fc&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oMOo01WjAFyBqOnxK9IAhLDWahU1IQflvaE0Nz/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1840&bt=920&cs=0&ds=3&ft=4fUEKM3a8Zmo0gMOX64jVbdUPpWrKsdm&mime_type=video_mp4&qs=0&rc=Mzg5NmUzZzNkMzZpZWhkPEBpM29md2g6ZmtvaDMzZjgzM0BhXjAzLjFgNi8xNl9hXi9hYSMxay0vcjRnZmZgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343166&l=20230225103843357CF3B83FEF9426CD27&ply_type=2&policy=2&signature=eb906f9f30c340d2df32bbb7471b51fc&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 6876467879630342152,
+      "title": "EA7\u98ce\u5439\u6563\u4e86\u6545\u4e8b",
+      "play_url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/c5dc27b971c84255857bc73ebfa4aa38",
+      "author_name": "\u9648\u5b89\u6392",
+      "duration": 140,
+      "original": false,
+      "album": "EA7",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/151834a3b15140a88651935f3949fee8.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/151834a3b15140a88651935f3949fee8.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/151834a3b15140a88651935f3949fee8.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7180200567879322906,
+    "stats": {
+      "digg_count": 57,
+      "share_count": 2,
+      "comment_count": 1,
+      "play_count": 1257
+    },
+    "create_time": 1671770726000,
+    "desc": "\u0110\u1ed9c l\u1ea1 qu\u00e1 b\u00e0 \u01a1i, ai \u0111u l\u1ea1i b\u00e0 #metub #metubnews #trending #madeyoulook ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metub" },
+      { "title": "trending" },
+      { "title": "madeyoulook" },
+      { "title": "metubnews" }
+    ],
+    "video": {
+      "id": 7180200567879322906,
+      "height": 1024,
+      "width": 576,
+      "duration": 26,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1627767,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/ocIKJjltDsfTAe2NoCPIZQDZTH4pBgnLCQMbVK?x-expires=1677340800&x-signature=TjW%2FiCBslk4SBRVMFZCbuT7%2Bw08%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/436cc5b2e8864d96a90e403b7e893ff3_1671770731?x-expires=1677340800&x-signature=%2Bw%2BpRWjiAQEJNgmNMYT0cwRGeCI%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/b045ffbee06e4f0ba37363738429d945_1671770732?x-expires=1677340800&x-signature=o7C8Aca%2FTtxscQk3Jad4ZvepSOQ%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ooMpxhUFkQzUokAjIO6BAIylQnfnK0FhGF72tJ/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=3178&bt=1589&cs=0&ds=3&ft=4fUEKM3a8Zmo0KMOX64jVPiUPpWrKsdm&mime_type=video_mp4&qs=0&rc=OTNoNzw8Njc7MzVpOTQ3NUBpMzhrZjg6ZmttaDMzZjgzM0BgYl81L15fXmIxX2I1Xy0uYSM1NWhvcjRvMWZgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343156&l=2023022510384972082B54D80F3626B06B&ply_type=2&policy=2&signature=a1627ff564bd95d47b4b94533e6c65ec&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ooMpxhUFkQzUokAjIO6BAIylQnfnK0FhGF72tJ/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=3178&bt=1589&cs=0&ds=3&ft=4fUEKM3a8Zmo0KMOX64jVPiUPpWrKsdm&mime_type=video_mp4&qs=0&rc=OTNoNzw8Njc7MzVpOTQ3NUBpMzhrZjg6ZmttaDMzZjgzM0BgYl81L15fXmIxX2I1Xy0uYSM1NWhvcjRvMWZgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343156&l=2023022510384972082B54D80F3626B06B&ply_type=2&policy=2&signature=a1627ff564bd95d47b4b94533e6c65ec&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7180200588423334682,
+      "title": "nh\u1ea1c n\u1ec1n - Metub news",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/oMjpmYyMo9T2BHGUQrflSDCAMJem7PbPOQEnJD/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThY39.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=ZmlkPDY0N2U6OzQzO2Q2ZkBpanM7a2Y6ZnRtaDMzZjU8M0BiYTQwLl4wXjQxYjI0YC9hYSNhNHAucjRvMWZgLS1kMWNzcw%3D%3D&btag=80000&expire=1677325156&l=2023022510384972082B54D80F3626B06B&ply_type=3&policy=3&signature=a5ebd5836c57cf5b7cc07695cd8fb57b&tk=0",
+      "author_name": "Metub news",
+      "duration": 26,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=6%2F%2Ftav7udZCckhcFtwMfcxSY7uw%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_720x720.jpeg?x-expires=1677492000&x-signature=jBpFQsLHwtpJ0elt7MHkiBpmaHQ%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_100x100.jpeg?x-expires=1677492000&x-signature=j0D8gAFVb2oLHL53K9KMsNH3oqE%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7180190125953977626,
+    "stats": {
+      "digg_count": 77,
+      "share_count": 0,
+      "comment_count": 0,
+      "play_count": 1994
+    },
+    "create_time": 1671768296000,
+    "desc": "Ch\u00fac m\u1eebng h\u1ea1nh ph\u00fac anh ch\u1ecb #metub #metubnews #trending ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metub" },
+      { "title": "metubnews" },
+      { "title": "trending" }
+    ],
+    "video": {
+      "id": 7180190125953977626,
+      "height": 1024,
+      "width": 576,
+      "duration": 30,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 885709,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/osODODbD2Qpcj7kPDQBiVXAGXPIeeECtnClSUK?x-expires=1677340800&x-signature=YH3yy5jpjQdN%2BO%2BYqwolZKNaHdc%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/61ea21e4d67f455cb52d6362a989bb82_1671768306?x-expires=1677340800&x-signature=Z7zQW6K%2BDvoaUA7NURXDYMnBf8o%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/a5e94039d56b4d53ac07400ce84a31d8_1671768306?x-expires=1677340800&x-signature=OGRtXANlBNBJpvFiYkooS7brtTk%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ognx0QzLIhAhDuBOtBAoUnPfipldmSnRPDBKnK/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1728&bt=864&cs=0&ds=3&ft=4fUEKM3a8Zmo0dWOX64jVqWIPpWrKsdm&mime_type=video_mp4&qs=0&rc=ODtpaTY6ZDM2aGZnOmg0OkBpMzo7czQ6ZmhsaDMzZjgzM0AuL14tMS00NjExYTIyMTZhYSM2a3AtcjRvZWZgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343175&l=20230225103903B89D4F65C7AA7727660B&ply_type=2&policy=2&signature=29084c2951efab5e33ba534c33a6c526&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ognx0QzLIhAhDuBOtBAoUnPfipldmSnRPDBKnK/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1728&bt=864&cs=0&ds=3&ft=4fUEKM3a8Zmo0dWOX64jVqWIPpWrKsdm&mime_type=video_mp4&qs=0&rc=ODtpaTY6ZDM2aGZnOmg0OkBpMzo7czQ6ZmhsaDMzZjgzM0AuL14tMS00NjExYTIyMTZhYSM2a3AtcjRvZWZgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343175&l=20230225103903B89D4F65C7AA7727660B&ply_type=2&policy=2&signature=29084c2951efab5e33ba534c33a6c526&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 276426423270170624,
+      "title": "Beautiful In White",
+      "play_url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oYLkQQDnRkbBGVjOejHotlGot1eKOZCdogBiQg",
+      "author_name": "Shane Filan",
+      "duration": 30,
+      "original": false,
+      "album": "Love Always",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/35dd0a2533184429a59dc0512128a220.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/35dd0a2533184429a59dc0512128a220.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/35dd0a2533184429a59dc0512128a220.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7179901652596542746,
+    "stats": {
+      "digg_count": 11,
+      "share_count": 0,
+      "comment_count": 0,
+      "play_count": 1002
+    },
+    "create_time": 1671701128000,
+    "desc": "B\u1ed9 nail \u0111\u1eaft gi\u00e1 #metub #metubnews #trending ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metubnews" },
+      { "title": "metub" },
+      { "title": "trending" }
+    ],
+    "video": {
+      "id": 7179901652596542746,
+      "height": 1024,
+      "width": 576,
+      "duration": 30,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 839487,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oQ9pPIwQnoHHCBRNQDbQAfDr3eGUHjDCgVoVDI?x-expires=1677340800&x-signature=PO0Gdo60bUrO%2FbGWd5zJHQcId%2Bw%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/1f5fe73b0ee842ed95c67c936bf8100c_1671701139?x-expires=1677340800&x-signature=AbMGM0dKwXyb8Xb3Oa7bR%2Fxcq2Y%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/c0413a41bd5945b48eeff936816eedb6_1671701140?x-expires=1677340800&x-signature=TtpUUIH85lClr74yQid%2FUQez9I4%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/og8NCGIDVPUb3H1oRQgCUoGpQAGjoVnCfwTDeB/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1638&bt=819&cs=0&ds=3&ft=4fUEKM3a8Zmo03WOX64jVyDUPpWrKsdm&mime_type=video_mp4&qs=0&rc=aGdkaGczNzY4Mzs2N2c4NkBpMzlrbGQ6ZnY1aDMzZjgzM0AzLWFiNWBfNWAxMmMuXzViYSNua2ZlcjQwMGZgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343181&l=2023022510391018814ED2CE10CF26EF3B&ply_type=2&policy=2&signature=4b7eb293d81efba4297195bd0e6583df&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/og8NCGIDVPUb3H1oRQgCUoGpQAGjoVnCfwTDeB/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1638&bt=819&cs=0&ds=3&ft=4fUEKM3a8Zmo03WOX64jVyDUPpWrKsdm&mime_type=video_mp4&qs=0&rc=aGdkaGczNzY4Mzs2N2c4NkBpMzlrbGQ6ZnY1aDMzZjgzM0AzLWFiNWBfNWAxMmMuXzViYSNua2ZlcjQwMGZgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343181&l=2023022510391018814ED2CE10CF26EF3B&ply_type=2&policy=2&signature=4b7eb293d81efba4297195bd0e6583df&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7175383555432893210,
+      "title": "nh\u1ea1c n\u1ec1n - TheAnh96",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/oUrUdielYIn5dADCVIwQbBDGjUU8JmfDPhVBFB/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThL49.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=ZTZlODc2Z2c3ZzY0Zmk8OEBpM3J3ajM6ZnE0aDMzZjU8M0BjLjQxNWEzNjAxLzUxXzU1YSMxbjQucjRfXl5gLS1kMWNzcw%3D%3D&btag=80000&expire=1677325165&l=2023022510391018814ED2CE10CF26EF3B&ply_type=3&policy=3&signature=c0c9c1c7995737938b7f9e5c0f3c6582&tk=0",
+      "author_name": "TheAnh96",
+      "duration": 14,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/050f3d706b36335bda9f642eea9aa605~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=nXXK9njfBeIxW3ix7uPRiE6YS5U%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/050f3d706b36335bda9f642eea9aa605~c5_720x720.jpeg?x-expires=1677492000&x-signature=DOC%2Fj%2F2j%2FfBoXeY3Ufuwr5%2BuauM%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/050f3d706b36335bda9f642eea9aa605~c5_100x100.jpeg?x-expires=1677492000&x-signature=GNNzhJS7AUTbzsch%2FK2nYZ%2FY6rs%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7179837010398498074,
+    "stats": {
+      "digg_count": 0,
+      "share_count": 0,
+      "comment_count": 0,
+      "play_count": 28
+    },
+    "create_time": 1671686078000,
+    "desc": "Gu c\u1ee7a anh tr\u01b0\u1eddng t\u1ed3n theo n\u0103m th\u00e1ng #metub #metubnews #trending #leonardodicaprio ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "trending" },
+      { "title": "leonardodicaprio" },
+      { "title": "metub" },
+      { "title": "metubnews" }
+    ],
+    "video": {
+      "id": 7179837010398498074,
+      "height": 1024,
+      "width": 576,
+      "duration": 40,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 719711,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/0f97aee1695749dd8b604bc0874a46fb_1671686104?x-expires=1677340800&x-signature=0fK2eD7kQf4dMKClFFgUmLv66Qg%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/d7c1669416bb4f9291b953ed09abb500_1671686105?x-expires=1677340800&x-signature=53GnZ2KhGDWBeiZSO3W5SlOPcPI%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/2ff3c590aa7b4da29436f3592a62ddce_1671686083?x-expires=1677340800&x-signature=x9q7X%2FXWTED4B1TG%2BwN1lotB8yk%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ocbFHIpAGgED4TgHV4nyeHoeRQGdIzrCeeAE9l/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1404&bt=702&cs=0&ds=3&ft=4fUEKM3a8Zmo0LWOX64jV9RhjpWrKsdm&mime_type=video_mp4&qs=0&rc=Zzo0Zzw1ZWdkNTY3Zzo6ZkBpM3NkdmQ6ZnR4aDMzZjgzM0BfMTA1MjIuNi8xYS8yMi1jYSMtZ2hlcjRfYmVgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343198&l=20230225103916FE28CBB4E756E7269408&ply_type=2&policy=2&signature=b8c49a3a5991f1d1763da1cc966434db&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ocbFHIpAGgED4TgHV4nyeHoeRQGdIzrCeeAE9l/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1404&bt=702&cs=0&ds=3&ft=4fUEKM3a8Zmo0LWOX64jV9RhjpWrKsdm&mime_type=video_mp4&qs=0&rc=Zzo0Zzw1ZWdkNTY3Zzo6ZkBpM3NkdmQ6ZnR4aDMzZjgzM0BfMTA1MjIuNi8xYS8yMi1jYSMtZ2hlcjRfYmVgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343198&l=20230225103916FE28CBB4E756E7269408&ply_type=2&policy=2&signature=b8c49a3a5991f1d1763da1cc966434db&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7153822240386058241,
+      "title": "H\u1ee1i Em M\u00e1 \u0110\u1ecf M\u00f4i H\u1ed3ng Cho Anh M\u01b0\u1ee3n \u0110\u1ea5t Anh Tr\u1ed3ng C\u1ee7 Khoai - Em L\u00e0 Nh\u1ea5t Mi\u1ec1n T\u00e2y (Mee Remix)",
+      "play_url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/1e748cdf043c4791869297fdc7fbecf2",
+      "author_name": "Mee Media & V\u00f5 L\u00ea Mi & Jin Tu\u1ea5n Nam",
+      "duration": 54,
+      "original": false,
+      "album": "Em L\u00e0 Nh\u1ea5t Mi\u1ec1n T\u00e2y - Mee Remix",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/798ae719d7db4e67a6e58a3c6163a509.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/798ae719d7db4e67a6e58a3c6163a509.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/798ae719d7db4e67a6e58a3c6163a509.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7179822434399440155,
+    "stats": {
+      "digg_count": 472,
+      "share_count": 2,
+      "comment_count": 9,
+      "play_count": 28700
+    },
+    "create_time": 1671682687000,
+    "desc": "S\u1eafp \u0111\u1ebfn ng\u00e0y Vi\u1ec7t Nam s\u00e1nh vai v\u1edbi c\u00e1c c\u01b0\u1eddng qu\u1ed1c 5 ch\u00e2u r\u1ed3i #metub #metubnews #worldcup #trending ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metub" },
+      { "title": "metubnews" },
+      { "title": "worldcup" },
+      { "title": "trending" }
+    ],
+    "video": {
+      "id": 7179822434399440155,
+      "height": 1024,
+      "width": 576,
+      "duration": 57,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1180785,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oYzUjntzBqOejfPCEgABAyP2hoID2EnQVRK94W?x-expires=1677340800&x-signature=0W1DL19mQtLVr9fHOd52etuLWvg%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/1d119681839a4f33ae0621a1b225139a_1671682714?x-expires=1677340800&x-signature=%2FoKS4nJ%2B8pnaXIHgTYd3AsYY2o0%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/b803e24df0fd45c98428f05ab6efba40_1671682715?x-expires=1677340800&x-signature=tQrAa5QGVrsG%2FL2bPHktwuWyn1o%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oQqjyOQotAIquzmFQzVjnqB22hDPfCDRUeIUlA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2306&bt=1153&cs=0&ds=3&ft=4fUEKM3a8Zmo0mWOX64jVGW9PpWrKsdm&mime_type=video_mp4&qs=0&rc=ZmY3NDszZTg7NzM7OmZnM0BpM2g8PDM6ZnN3aDMzZjgzM0AvYmE0LzFjNS0xXzYvYGA1YSNvL3FecjRfZ2VgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343222&l=20230225103923F05908BEC0730B272CD1&ply_type=2&policy=2&signature=1afc4e8bad6b4bf96bc9f10d43710d90&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oQqjyOQotAIquzmFQzVjnqB22hDPfCDRUeIUlA/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2306&bt=1153&cs=0&ds=3&ft=4fUEKM3a8Zmo0mWOX64jVGW9PpWrKsdm&mime_type=video_mp4&qs=0&rc=ZmY3NDszZTg7NzM7OmZnM0BpM2g8PDM6ZnN3aDMzZjgzM0AvYmE0LzFjNS0xXzYvYGA1YSNvL3FecjRfZ2VgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343222&l=20230225103923F05908BEC0730B272CD1&ply_type=2&policy=2&signature=1afc4e8bad6b4bf96bc9f10d43710d90&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 6731629518739490818,
+      "title": "The Cup of Life",
+      "play_url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/9df37307a132476cabacc0c1fb1a2095",
+      "author_name": "Champs United",
+      "duration": 90,
+      "original": false,
+      "album": "Can\u00e7\u00f5es de Futebol do Brasil 2018 (Brazilian Football Songs 2018)",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/13c9d852fa9c40d897634efbed635a9b.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/13c9d852fa9c40d897634efbed635a9b.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/13c9d852fa9c40d897634efbed635a9b.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7179815863372107034,
+    "stats": {
+      "digg_count": 492,
+      "share_count": 1,
+      "comment_count": 33,
+      "play_count": 39500
+    },
+    "create_time": 1671681155000,
+    "desc": "Ho\u00e0i ni\u1ec7m b\u1ed9 phim tu\u1ed5i th\u01a1 qu\u00e1 #metub #metubnews #trending ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metub" },
+      { "title": "metubnews" },
+      { "title": "trending" }
+    ],
+    "video": {
+      "id": 7179815863372107034,
+      "height": 1024,
+      "width": 576,
+      "duration": 36,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 518134,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oUuf7CBLEBVPqozlMtEhjIebjI019zKkoBhQAD?x-expires=1677340800&x-signature=909FSV5A3KbzZXnzMqR46vxLnQE%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/b13aa573adb24020a892c8ade8b1d2ee_1671681169?x-expires=1677340800&x-signature=ScVryCdvhNu9OcjHxDQ%2BuF4cDZk%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/c233ddac01af4c0c8ad8db30dfe07a69_1671681170?x-expires=1677340800&x-signature=zxU4T%2F%2F7luf0xyeiT%2FDUZQdV5WQ%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oMPBoa9ASebzBhErQCQVJltoCuDfj1hjQI7ULi/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1010&bt=505&cs=0&ds=3&ft=4fUEKM3a8Zmo09WOX64jVXb6PpWrKsdm&mime_type=video_mp4&qs=0&rc=Ozk0ODppZDZkaDY1OWg5OEBpamhmeTc6Zmx3aDMzZjgzM0BhLzJjMl5hXzAxLTJhMS8tYSNxa19kcjRvNWVgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343206&l=2023022510392847B745EB789E2926F7C7&ply_type=2&policy=2&signature=1b8ed66f476f32e3d66c211938dd7602&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037c001-aiso/oMPBoa9ASebzBhErQCQVJltoCuDfj1hjQI7ULi/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1010&bt=505&cs=0&ds=3&ft=4fUEKM3a8Zmo09WOX64jVXb6PpWrKsdm&mime_type=video_mp4&qs=0&rc=Ozk0ODppZDZkaDY1OWg5OEBpamhmeTc6Zmx3aDMzZjgzM0BhLzJjMl5hXzAxLTJhMS8tYSNxa19kcjRvNWVgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343206&l=2023022510392847B745EB789E2926F7C7&ply_type=2&policy=2&signature=1b8ed66f476f32e3d66c211938dd7602&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7179815905755466523,
+      "title": "nh\u1ea1c n\u1ec1n - Metub news",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/o4JBS8D6RdJbOcoJIjo2C2PjSeQUo2r8n91eDQ/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Thm49.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=OWhoOzg1NmQ1aGg6OzY3ZkBpanl2ODo6ZjV3aDMzZjU8M0AwXjI2Yl9jNjYxMzAzXy9hYSNhaW8ucjRfNmVgLS1kMWNzcw%3D%3D&btag=80000&expire=1677325206&l=2023022510392847B745EB789E2926F7C7&ply_type=3&policy=3&signature=4ff5e7cdaa469fec5a8ba81565395bcb&tk=0",
+      "author_name": "Metub news",
+      "duration": 36,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=6%2F%2Ftav7udZCckhcFtwMfcxSY7uw%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_720x720.jpeg?x-expires=1677492000&x-signature=jBpFQsLHwtpJ0elt7MHkiBpmaHQ%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_100x100.jpeg?x-expires=1677492000&x-signature=j0D8gAFVb2oLHL53K9KMsNH3oqE%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7179539405227543835,
+    "stats": {
+      "digg_count": 398,
+      "share_count": 0,
+      "comment_count": 8,
+      "play_count": 16400
+    },
+    "create_time": 1671616787000,
+    "desc": "R\u1ea5t nhi\u1ec1u s\u00e1ch qu\u00fd bi\u1ebfn m\u1ea5t #metub #metubnews #trending ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "trending" },
+      { "title": "metub" },
+      { "title": "metubnews" }
+    ],
+    "video": {
+      "id": 7179539405227543835,
+      "height": 1024,
+      "width": 576,
+      "duration": 39,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 670258,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/o4DJUsVCEDAbRIuiBjWQkreOPBejt2ontXIclX?x-expires=1677340800&x-signature=F3dOPlbkGt1nubsqtGN1CCqPysU%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/81ca669cb1c144be8248fb05f775bef1_1671616794?x-expires=1677340800&x-signature=kipcyj%2BBvTDetgBtutBgyOb0F4w%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/e0522f5b46314b3ab9f5f5a095177845_1671616801?x-expires=1677340800&x-signature=pwFBHR0rSKILaQRWIolJJOQGwIc%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/o4ocjXQrIDtU4wDDt2jCinSBoUqkPOLbQAeemV/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1308&bt=654&cs=0&ds=3&ft=4fUEKM3a8Zmo0aWOX64jV~B94pWrKsdm&mime_type=video_mp4&qs=0&rc=aTg7aGhlZDxnODZlNjszZ0BpamdqPGU6ZnFnaDMzZjgzM0BeYWBiYmMyXl4xXy5gNS9jYSNpcS9zcjQwZWVgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343215&l=2023022510393497E96214E7090A26F50C&ply_type=2&policy=2&signature=442ca5b60d64793451cbfac606eb7155&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/o4ocjXQrIDtU4wDDt2jCinSBoUqkPOLbQAeemV/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1308&bt=654&cs=0&ds=3&ft=4fUEKM3a8Zmo0aWOX64jV~B94pWrKsdm&mime_type=video_mp4&qs=0&rc=aTg7aGhlZDxnODZlNjszZ0BpamdqPGU6ZnFnaDMzZjgzM0BeYWBiYmMyXl4xXy5gNS9jYSNpcS9zcjQwZWVgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343215&l=2023022510393497E96214E7090A26F50C&ply_type=2&policy=2&signature=442ca5b60d64793451cbfac606eb7155&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7179539509444004635,
+      "title": "nh\u1ea1c n\u1ec1n - Metub news",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/oUIiUJh5E2h0Bxzx0fqNNZj6VyDKUhuonJWSAd/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7ThG49.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=Z2RpMzw8NzxkaDY5Z2Y1OUBpanM3aDY6ZmRnaDMzZjU8M0BiXjUtMy1fNWExLV40LjFgYSNeZmhucjQwZmVgLS1kMWNzcw%3D%3D&btag=80000&expire=1677325215&l=2023022510393497E96214E7090A26F50C&ply_type=3&policy=3&signature=b61fcc89577db6b8047a0b3f32b633ba&tk=0",
+      "author_name": "Metub news",
+      "duration": 39,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=6%2F%2Ftav7udZCckhcFtwMfcxSY7uw%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_720x720.jpeg?x-expires=1677492000&x-signature=jBpFQsLHwtpJ0elt7MHkiBpmaHQ%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_100x100.jpeg?x-expires=1677492000&x-signature=j0D8gAFVb2oLHL53K9KMsNH3oqE%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7179458683988970778,
+    "stats": {
+      "digg_count": 126,
+      "share_count": 0,
+      "comment_count": 1,
+      "play_count": 13800
+    },
+    "create_time": 1671597993000,
+    "desc": "\u0110\u00e1ng iu qu\u00e1 \u0111i n\u00e8 #metub #metubnews #trending ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metub" },
+      { "title": "trending" },
+      { "title": "metubnews" }
+    ],
+    "video": {
+      "id": 7179458683988970778,
+      "height": 1024,
+      "width": 576,
+      "duration": 75,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 1116563,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oYo5BtrEzDqjf2wCCihjo6E6oBPIEHqQDiVtfA?x-expires=1677340800&x-signature=0EVLKt5d3vp19ykXF5u2s49pqyo%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/6316738bd29143b988b9c4b2fd5b0c27_1671598045?x-expires=1677340800&x-signature=4567BHyvXJTVzEiStPBLth7Ge9o%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/1aaa93123fe44a1abff5504c9b4107cc_1671598045?x-expires=1677340800&x-signature=PULDSq%2F0t%2FKjP7Z2H0WSHW5pXX4%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oYbhFDFAGgEDDVgIG7nWeHofRQUelHrhReOEdJ/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2180&bt=1090&cs=0&ds=3&ft=4fUEKM3a8Zmo0UWOX64jV~vejpWrKsdm&mime_type=video_mp4&qs=0&rc=PGg4NzhoOmlmNzU5NjdmZEBpamU1NDY6ZjQ7aDMzZjgzM0BgYTFfMC4wXzIxL14vM2E1YSMwaTMvcjRfc2VgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343256&l=202302251039399F2E218EC49696274F6A&ply_type=2&policy=2&signature=8273ac4124eb6ecb3d2e7733465026d3&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oYbhFDFAGgEDDVgIG7nWeHofRQUelHrhReOEdJ/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=2180&bt=1090&cs=0&ds=3&ft=4fUEKM3a8Zmo0UWOX64jV~vejpWrKsdm&mime_type=video_mp4&qs=0&rc=PGg4NzhoOmlmNzU5NjdmZEBpamU1NDY6ZjQ7aDMzZjgzM0BgYTFfMC4wXzIxL14vM2E1YSMwaTMvcjRfc2VgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343256&l=202302251039399F2E218EC49696274F6A&ply_type=2&policy=2&signature=8273ac4124eb6ecb3d2e7733465026d3&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 7179458822392597275,
+      "title": "nh\u1ea1c n\u1ec1n - Metub news",
+      "play_url": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-v-27dcd7-aiso/o88oGRCe5UEReBSPuVjfibQgmgDB6EnqHIBTJe/?a=1988&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=GNDpcInz7Th049.aXq8Zmk&mime_type=audio_mpeg&qs=6&rc=NGdkZmg4NTdkO2Q4Zmg3aEBpM3g2azM6Zmo7aDMzZjU8M0AwMmBjYjJjXmMxLy82MjJfYSNnYnBycjRnc2VgLS1kMWNzcw%3D%3D&btag=80000&expire=1677325256&l=202302251039399F2E218EC49696274F6A&ply_type=3&policy=3&signature=9b64fd025efb39ff058fc5611079c4f9&tk=0",
+      "author_name": "Metub news",
+      "duration": 75,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_1080x1080.jpeg?x-expires=1677492000&x-signature=6%2F%2Ftav7udZCckhcFtwMfcxSY7uw%3D",
+      "cover_medium": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_720x720.jpeg?x-expires=1677492000&x-signature=jBpFQsLHwtpJ0elt7MHkiBpmaHQ%3D",
+      "cover_thumb": "https://p16-sign-va.tiktokcdn.com/tos-useast2a-avt-0068-giso/ee4009d8632c8778942488a80ef09f06~c5_100x100.jpeg?x-expires=1677492000&x-signature=j0D8gAFVb2oLHL53K9KMsNH3oqE%3D"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7179450394752355610,
+    "stats": {
+      "digg_count": 370,
+      "share_count": 0,
+      "comment_count": 0,
+      "play_count": 13000
+    },
+    "create_time": 1671596064000,
+    "desc": "Ch\u1ecb h\u00e1t \u0111\u1ec9nh th\u1ef1c s\u1ef1 #metub #metubnews #trending #christinaaguilera ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "christinaaguilera" },
+      { "title": "metubnews" },
+      { "title": "metub" },
+      { "title": "trending" }
+    ],
+    "video": {
+      "id": 7179450394752355610,
+      "height": 1024,
+      "width": 576,
+      "duration": 48,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 808621,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oYeDyiiBImREeyREbi6nbGSrftAeCNQgWkjHQy?x-expires=1677340800&x-signature=8dYDC8Ghkh0Vt0g3q75Puchf0VM%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/a1e5bba36486439eafa03cb8dd1e74d9_1671596077?x-expires=1677340800&x-signature=f9m189BkgAK0Y4wfhLrcZeDC%2Bns%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/56cf9a434d004cb9baf90da61907da1a_1671596078?x-expires=1677340800&x-signature=h5CLh1kR2wg99bcuPvL1wVVnZ5k%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ogZDiARLUnQgZhUxa0fthAoCNihrPpIzKEzIB2/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1578&bt=789&cs=0&ds=3&ft=4fUEKM3a8Zmo0MWOX64jVdWUPpWrKsdm&mime_type=video_mp4&qs=0&rc=NzY6OTk4PGdnOmVnNGRmNUBpamc4cDs6ZnU7aDMzZjgzM0AuYTIxXzZiNjQxYF5eYGBhYSNoL19tcjRfY2VgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343233&l=20230225103944692B99FC8F570A2702B0&ply_type=2&policy=2&signature=68757b8969d914dfb274b24cbc2588f1&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/ogZDiARLUnQgZhUxa0fthAoCNihrPpIzKEzIB2/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=1578&bt=789&cs=0&ds=3&ft=4fUEKM3a8Zmo0MWOX64jVdWUPpWrKsdm&mime_type=video_mp4&qs=0&rc=NzY6OTk4PGdnOmVnNGRmNUBpamc4cDs6ZnU7aDMzZjgzM0AuYTIxXzZiNjQxYF5eYGBhYSNoL19tcjRfY2VgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343233&l=20230225103944692B99FC8F570A2702B0&ply_type=2&policy=2&signature=68757b8969d914dfb274b24cbc2588f1&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 6527495246689864450,
+      "title": "A Million Dreams",
+      "play_url": "https://sf9-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/43b7dd0d035240d0998bff33e8c5bcba",
+      "author_name": "Hugh Jackman,Ziv Zaifman,Michelle Williams",
+      "duration": 30,
+      "original": false,
+      "album": null,
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/26cc82290260437189e25df00aac5c8e.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/26cc82290260437189e25df00aac5c8e.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/26cc82290260437189e25df00aac5c8e.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  },
+  {
+    "id": 7179440793814387994,
+    "stats": {
+      "digg_count": 1,
+      "share_count": 0,
+      "comment_count": 0,
+      "play_count": 28
+    },
+    "create_time": 1671593830000,
+    "desc": "M\u00ea c\u00fap h\u01a1n m\u00ea v\u1ee3 r\u1ed3i anh Si \u01a1i #metub #metubnews #trending #messi ",
+    "diversification_labels": null,
+    "challenges": [
+      { "title": "metub" },
+      { "title": "trending" },
+      { "title": "messi" },
+      { "title": "metubnews" }
+    ],
+    "video": {
+      "id": 7179440793814387994,
+      "height": 1024,
+      "width": 576,
+      "duration": 32,
+      "ratio": "720p",
+      "format": "mp4",
+      "bitrate": 2281665,
+      "cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/oUc9fnQynQt2kEz8AO8FPzVxeBbXjmDIDXQ2Co?x-expires=1677340800&x-signature=I4y9KM25XWbVLC5rzj6fsYcSYR4%3D",
+      "origin_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/7f67363930e948fab3713b1f6dfe3248_1671593843?x-expires=1677340800&x-signature=67dbHY7XpTPcAs31DodZFtwJ0W8%3D",
+      "dynamic_cover": "https://p16-sign-va.tiktokcdn.com/obj/tos-useast2a-p-0037-aiso/206dda449c9d4b46b9eb14407ee4f9ef_1671593843?x-expires=1677340800&x-signature=nmPEc1lUTowyzFZjTf5oRrvaeLc%3D",
+      "share_cover": [""],
+      "reflow_cover": "",
+      "play_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oUVoPQxon9b8nBfeQDb3AsgtO8y2RjDCkzkVSE/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=4456&bt=2228&cs=0&ds=3&ft=4fUEKM3a8Zmo0IWOX64jV5u-PpWrKsdm&mime_type=video_mp4&qs=0&rc=ZmY2aDo0Z2c0N2Y0M2hkM0BpM2l3ZWY6ZmY6aDMzZjgzM0AvYy5jLzM1XmMxX2FjNmM2YSM2NGFycjRfcmVgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343221&l=20230225103948DBCD0B57555DC12707B1&ply_type=2&policy=2&signature=91b5f56ed8438c0a08375effcedd3f4b&tk=tt_chain_token",
+      "download_addr": "https://v16-webapp-prime.tiktok.com/video/tos/useast2a/tos-useast2a-pve-0037-aiso/oUVoPQxon9b8nBfeQDb3AsgtO8y2RjDCkzkVSE/?a=1988&ch=0&cr=0&dr=0&lr=tiktok&cd=0%7C0%7C1%7C0&cv=1&br=4456&bt=2228&cs=0&ds=3&ft=4fUEKM3a8Zmo0IWOX64jV5u-PpWrKsdm&mime_type=video_mp4&qs=0&rc=ZmY2aDo0Z2c0N2Y0M2hkM0BpM2l3ZWY6ZmY6aDMzZjgzM0AvYy5jLzM1XmMxX2FjNmM2YSM2NGFycjRfcmVgLS1kL2Nzcw%3D%3D&btag=80000&expire=1677343221&l=20230225103948DBCD0B57555DC12707B1&ply_type=2&policy=2&signature=91b5f56ed8438c0a08375effcedd3f4b&tk=tt_chain_token"
+    },
+    "music": {
+      "id": 6705084006116886530,
+      "title": "We Are The Champions",
+      "play_url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/7ee5ced937e64678ae91b423a52e21b7",
+      "author_name": "Galileo & The Cast Of 'We Will Rock You'",
+      "duration": 60,
+      "original": false,
+      "album": "We Will Rock You: Cast Album",
+      "cover_large": "https://p9-sg.tiktokcdn.com/aweme/720x720/tos-alisg-v-2774/663d6fc7f179458baba3359b94c81f13.jpeg",
+      "cover_medium": "https://p9-sg.tiktokcdn.com/aweme/200x200/tos-alisg-v-2774/663d6fc7f179458baba3359b94c81f13.jpeg",
+      "cover_thumb": "https://p9-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/663d6fc7f179458baba3359b94c81f13.jpeg"
+    },
+    "image_post": null,
+    "author": "metubnews",
+    "comments": [],
+    "creator": null,
+    "tags": null
+  }
+]
